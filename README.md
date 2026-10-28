@@ -14,3 +14,11 @@ shasum -a 256 -c data/predictions_2026-10-26.sha256
 ```
 
 The review data isn't included, so the scripts won't run on their own. They're here so the scoring rules can't drift.
+
+## Add-on, 2026-10-28
+
+`PREDICTIONS_2026-10-28.md` puts probabilities on the four leads and the list test, with a call on which way each effect goes, and `data/forecasts_2026-10-28.csv` has the model's 30 most likely next papers. It changes nothing in the Oct 26 files.
+
+```
+shasum -a 256 -c data/forecasts_2026-10-28.sha256
+```
