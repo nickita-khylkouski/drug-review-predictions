@@ -22,3 +22,5 @@ The review data isn't included, so the scripts won't run on their own. They're h
 ```
 shasum -a 256 -c data/forecasts_2026-10-28.sha256
 ```
+
+The sources behind those forecasts (PubMed IDs, trial IDs and the FDA-label placebo rates) are in `EVIDENCE_2026-10-28.md`. `base_rates.py` makes the base rates and power numbers.
