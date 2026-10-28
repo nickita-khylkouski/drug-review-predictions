@@ -1,0 +1,2474 @@
+arm,drug,effect,k,n,E,lb,lb_verb,first
+signal,bupropion,smoking craving,57,6038,0.426,90.351,57.773,2007-12-21
+signal,bupropion,smoking behavior,174,6038,2.826,54.109,29.507,2007-10-12
+signal,spironolactone,acne,82,1119,2.125,31.861,19.625,2008-01-20
+signal,spironolactone,hair growth or loss,40,1119,1.255,24.067,14.824,2008-02-05
+signal,propranolol,tremor,27,1891,0.873,21.839,25.121,2007-11-12
+signal,hydroxyzine,itching,17,2437,0.288,21.664,21.664,2008-03-20
+signal,tadalafil,erection,42,748,1.731,18.456,8.917,2011-05-03
+signal,metformin,menstrual cycle,43,2233,1.932,16.981,18.581,2007-09-25
+signal,hydroxyzine,allergic reaction,28,2437,1.267,15.702,16.571,2009-04-14
+signal,methadone,addiction or dependence,13,607,0.36,15.379,13.18,2008-04-24
+signal,testosterone,sexual function,13,538,0.29,15.379,14.101,2008-07-07
+signal,topiramate,body weight,136,1312,7.819,15.015,10.365,2007-11-19
+signal,spironolactone,edema,13,1119,0.572,13.455,8.287,2007-10-26
+signal,isotretinoin,self-esteem,22,1048,1.11,13.423,16.383,2008-02-12
+signal,propranolol,sweating,11,1891,0.462,12.338,12.338,2013-08-08
+signal,tadalafil,urinary frequency,11,748,0.005,12.338,12.338,2013-04-14
+signal,varenicline,dyspnea,11,1713,0.025,12.338,12.338,2007-11-21
+signal,gabapentin,restless legs,26,2552,1.51,12.063,7.171,2009-08-11
+signal,topiramate,headache,37,1312,2.323,11.881,8.202,2008-03-09
+signal,tirzepatide,a1c,15,989,0.794,11.649,4.197,2022-10-10
+signal,biotin,hair growth or loss,10,42,0.289,10.851,6.356,2013-12-30
+signal,hydrochlorothiazide / triamterene,edema,10,335,0.484,10.851,10.706,2008-06-26
+signal,testosterone,hair growth or loss,10,538,0.449,10.851,6.438,2010-05-21
+signal,phentermine,body weight,10,3040,0.5,10.849,10.347,2008-08-13
+signal,amitriptyline,insomnia,13,3072,0.739,10.4,5.725,2007-12-18
+signal,propranolol,heart rate,32,1891,2.31,10.084,11.6,2007-10-02
+signal,lisdexamfetamine,other: school performance,15,1022,0.924,10.011,7.25,2008-12-09
+signal,diazepam,muscle spasms,13,1296,0.793,9.695,8.641,2011-03-08
+signal,metformin,blood glucose,9,2233,0.424,9.39,9.39,2007-11-11
+signal,tramadol,pain,30,1803,2.316,9.323,5.143,2008-10-30
+signal,bupropion / naltrexone,smoking craving,10,1807,0.586,9.254,7.166,2015-04-21
+signal,tretinoin,wrinkles,12,454,0.753,9.198,9.371,2014-07-09
+signal,norethindrone,aura,10,1573,0.598,9.066,10.698,2012-01-15
+signal,lisdexamfetamine,attention,22,1022,1.647,9.042,6.548,2008-10-15
+signal,lorcaserin,sleep quality,48,901,4.125,9.017,6.878,2013-07-22
+signal,estradiol,hot flashes,11,1000,0.687,8.976,10.262,2008-05-19
+signal,hydrochlorothiazide,edema,18,913,1.308,8.895,8.07,2008-08-07
+signal,buprenorphine,addiction or dependence,9,1097,0.528,8.893,9.39,2009-12-05
+signal,gabapentin,hot flashes,11,2552,0.701,8.8,5.231,2009-07-07
+signal,theanine,anxiety,10,122,0.633,8.576,4.942,2016-07-25
+signal,metformin,hair growth or loss,10,2233,0.634,8.561,9.367,2008-01-01
+signal,duloxetine,back pain,86,6678,8.363,8.529,7.968,2007-09-25
+signal,mirtazapine,appetite,94,1957,9.237,8.514,4.335,2009-01-21
+signal,biotin,nail health,9,42,0.572,8.213,2.779,2008-10-04
+signal,apremilast,body weight,8,453,0.448,7.962,7.962,2015-11-24
+signal,dutasteride,hair growth or loss,8,58,0.276,7.962,7.962,2012-12-26
+signal,estradiol,urinary tract infection,8,1000,0.016,7.962,7.962,2016-06-06
+signal,phentermine,alertness,8,3040,0.144,7.962,7.962,2010-04-02
+signal,terbinafine,skin irritation,8,488,0.011,7.962,7.962,2008-07-05
+signal,theanine,sleep quality,8,122,0.164,7.962,7.962,2016-07-25
+signal,tirzepatide,cholesterol,8,989,0.46,7.962,3.12,2022-08-09
+signal,varenicline,cough,8,1713,0.01,7.962,7.962,2009-11-24
+signal,bupropion / naltrexone,depression,9,1807,0.603,7.791,6.033,2015-02-04
+signal,diazepam,muscle stiffness,8,1296,0.515,7.731,6.89,2008-09-09
+signal,testosterone,mobility,9,538,0.611,7.684,4.093,2009-04-04
+signal,duloxetine,arthritis,23,6678,2.089,7.525,7.029,2008-11-17
+signal,tirzepatide,food cravings,56,989,6.191,7.153,2.577,2022-06-29
+signal,quetiapine,psychosis,8,4715,0.557,7.152,4.714,2012-05-05
+signal,gabapentin,nerve pain,25,2552,2.449,7.099,4.22,2009-11-28
+signal,amitriptyline,sleep quality,460,3072,60.063,7.081,3.898,2007-09-20
+signal,semaglutide,a1c,16,2105,1.423,7.05,4.033,2020-04-27
+signal,amitriptyline,sleep duration,48,3072,5.285,7.039,3.874,2008-01-26
+signal,tirzepatide,eating behavior,31,989,3.203,7.008,2.525,2022-06-29
+signal,nortriptyline,headache,51,1077,5.697,6.994,5.228,2007-10-23
+signal,amitriptyline,neck pain,9,3072,0.708,6.632,3.65,2008-10-09
+signal,bupropion,sex drive,212,6038,28.566,6.603,3.601,2008-01-09
+signal,quetiapine,other: racing thoughts,11,4715,0.937,6.586,4.341,2008-03-06
+signal,ergocalciferol,energy level,7,27,0.112,6.571,6.571,2010-10-10
+signal,guanfacine,tic disorders,7,381,0.066,6.571,6.571,2011-01-17
+signal,orlistat,bowel movement frequency,7,388,0.001,6.571,6.571,2014-07-20
+signal,phendimetrazine,attention,7,108,0.316,6.571,6.571,2008-07-22
+signal,propranolol,chest pain,7,1891,0.291,6.571,6.571,2008-02-08
+signal,tizanidine,neck pain,7,370,0.412,6.571,4.313,2010-04-14
+signal,topiramate,eating behavior,7,1312,0.479,6.571,4.737,2013-02-03
+signal,bupropion / naltrexone,alcohol use,12,1807,1.057,6.553,5.074,2015-07-07
+signal,bupropion,food cravings,43,6038,5.11,6.421,3.501,2007-09-20
+signal,duloxetine,neuropathy,18,6678,1.831,6.353,5.935,2007-10-29
+signal,mirtazapine,sleep quality,358,1957,53.055,6.172,3.143,2008-07-16
+signal,pregabalin,pain,23,1597,2.566,6.126,6.129,2008-05-19
+signal,propranolol,heart palpitations,12,1891,1.137,6.089,7.004,2011-03-31
+signal,trazodone,alcohol craving,7,1404,0.541,6.077,4.093,2014-03-17
+signal,testosterone,motivation,11,538,1.023,6.029,3.211,2008-10-13
+signal,topiramate,appetite,24,1312,2.841,5.825,4.021,2009-01-27
+signal,prazosin,blood pressure,8,378,0.686,5.802,7.248,2013-02-01
+signal,nebivolol,heart rate,34,1073,4.321,5.787,3.235,2008-09-05
+signal,bupropion / naltrexone,alcohol craving,45,1807,6.012,5.749,4.452,2015-03-12
+signal,bupropion / naltrexone,smoking behavior,20,1807,2.321,5.71,4.422,2015-04-21
+signal,montelukast,allergic reaction,13,560,1.355,5.673,3.387,2008-10-21
+signal,tirzepatide,blood pressure,23,989,2.836,5.543,1.997,2022-08-09
+signal,tirzepatide,blood glucose,10,989,0.989,5.483,1.976,2022-08-09
+signal,paroxetine,ejaculation,7,3058,0.601,5.466,6.571,2009-10-05
+signal,mirtazapine,allergic reaction,9,1957,0.859,5.463,2.782,2010-10-06
+signal,mirtazapine,sleep duration,40,1957,5.74,5.261,2.679,2009-05-07
+signal,cabergoline,sex drive,6,89,0.129,5.226,5.226,2014-03-13
+signal,diazepam,vertigo,6,1296,0.029,5.226,5.226,2008-03-04
+signal,dronabinol,appetite,6,57,0.162,5.226,5.226,2008-07-26
+signal,drospirenone / ethinyl estradiol,unintended pregnancy,6,2824,0.252,5.226,5.11,2015-12-02
+signal,duloxetine,tingling,6,6678,0.182,5.226,5.226,2010-09-28
+signal,eicosapentaenoate,pain,6,123,0.087,5.226,5.226,2014-03-23
+signal,estradiol,vaginal irritation,6,1000,0.004,5.226,5.226,2009-11-04
+signal,exenatide,blood glucose,6,909,0.115,5.226,5.226,2008-09-30
+signal,fluorouracil,wrinkles,6,263,0.019,5.226,5.226,2011-10-15
+signal,guanfacine,blood pressure,6,381,0.361,5.226,5.226,2013-05-14
+signal,levothyroxine,nail health,6,871,0.013,5.226,5.226,2009-09-04
+signal,lorcaserin,nighttime eating,6,901,0.373,5.226,5.226,2013-07-22
+signal,metoprolol,atrial fibrillation,6,2424,0.038,5.226,5.226,2008-04-20
+signal,prednisone,dyspnea,6,821,0.311,5.226,5.226,2009-06-05
+signal,testosterone,alertness,6,538,0.336,5.226,4.138,2012-05-18
+signal,tirzepatide,triglycerides,6,989,0.234,5.226,4.028,2022-11-26
+signal,vitamin b12,energy level,6,29,0.33,5.226,4.148,2010-07-21
+signal,verapamil,blood pressure,9,394,0.901,5.209,8.91,2008-06-21
+signal,liothyronine,cognitive function,8,88,0.779,5.107,2.78,2011-08-08
+signal,dupilumab,asthma,8,389,0.782,5.092,3.236,2019-07-10
+signal,spironolactone,other: oily skin,8,1119,0.79,5.039,3.103,2009-01-16
+signal,clonidine,blood pressure,13,1240,1.529,5.029,4.872,2008-05-06
+signal,quetiapine,sleep quality,649,4715,122.07,4.978,3.281,2007-09-24
+signal,theanine,attention,6,122,0.527,4.954,2.855,2019-01-11
+signal,duloxetine,pain,221,6678,40.374,4.883,4.561,2007-09-24
+signal,duloxetine,nerve pain,41,6678,6.385,4.866,4.546,2007-09-27
+signal,propranolol,anxiety,44,1891,7.074,4.762,5.478,2008-04-23
+signal,amitriptyline,nerve pain,16,3072,2.117,4.74,2.609,2009-06-18
+signal,duloxetine,muscle pain,8,6678,0.842,4.729,4.418,2007-10-25
+signal,tirzepatide,appetite,127,989,23.193,4.702,1.694,2022-06-29
+signal,quetiapine,insomnia,24,4715,3.567,4.64,3.058,2008-02-06
+signal,desogestrel / ethinyl estradiol,back pain,6,1441,0.564,4.631,3.09,2015-03-22
+signal,prazosin,ptsd symptoms,25,378,3.773,4.607,5.755,2008-08-01
+signal,"estrogens, conjugated (usp)",sex drive,6,109,0.567,4.606,2.852,2010-05-06
+signal,amitriptyline,neuropathy,9,3072,1.027,4.57,2.516,2008-07-20
+signal,testosterone,cognitive function,15,538,2.039,4.534,2.415,2009-04-24
+signal,topiramate,food cravings,7,1312,0.729,4.504,3.109,2009-02-17
+signal,metoprolol,heart rhythm,12,2424,1.552,4.46,4.619,2008-07-20
+signal,clonazepam,panic attacks,10,2046,1.224,4.433,4.948,2008-04-07
+signal,bupropion,adhd symptoms,29,6038,4.684,4.43,2.416,2010-01-07
+signal,duloxetine,fibromyalgia symptoms,109,6678,21.042,4.392,4.103,2007-09-25
+signal,cabergoline,body weight,6,89,0.602,4.343,1.448,2014-03-13
+signal,testosterone,mood,32,538,5.372,4.337,2.31,2008-05-21
+signal,adalimumab,mobility,6,702,0.607,4.307,3.721,2010-02-14
+signal,gabapentin,pain,36,2552,6.242,4.283,2.546,2008-12-28
+signal,nebivolol,heart palpitations,10,1073,1.297,4.185,2.339,2008-02-21
+signal,atenolol,heart palpitations,10,1311,1.3,4.172,3.683,2009-01-17
+signal,semaglutide,food cravings,69,2105,13.462,4.155,2.377,2018-08-23
+signal,metoprolol,heart rate,44,2424,8.122,4.148,4.295,2008-01-14
+signal,clonazepam,anxiety,58,2046,11.126,4.141,4.621,2008-03-09
+signal,bupropion,body weight,345,6038,76.725,4.106,2.239,2007-09-19
+signal,nebivolol,energy level,28,1073,4.858,4.096,2.29,2008-09-28
+signal,amitriptyline,headache,69,3072,13.66,4.094,2.254,2007-10-15
+signal,drospirenone / ethinyl estradiol,hair growth or loss,38,2824,7.061,4.031,1.984,2009-05-12
+signal,mirtazapine,insomnia,12,1957,1.745,3.968,2.021,2009-11-14
+signal,alprazolam,urinary frequency,5,4225,0.454,3.94,3.94,2011-02-07
+signal,amitriptyline,urinary frequency,5,3072,0.435,3.94,2.49,2008-06-23
+signal,buprenorphine / naloxone,behavior,5,995,0.186,3.94,3.94,2009-06-24
+signal,bupropion,emotion regulation,5,6038,0.027,3.94,3.94,2008-08-11
+signal,bupropion / naltrexone,compulsive behavior,5,1807,0.008,3.94,3.94,2015-08-14
+signal,clonidine,withdrawal symptoms,5,1240,0.089,3.94,3.94,2013-02-27
+signal,eicosapentaenoate,mood,5,123,0.286,3.94,2.756,2013-11-03
+signal,empagliflozin,edema,5,456,0.185,3.94,3.94,2014-10-14
+signal,gabapentin,tingling,5,2552,0.243,3.94,3.94,2008-03-14
+signal,gabapentin,urinary frequency,5,2552,0.261,3.94,3.94,2016-05-07
+signal,hydrochlorothiazide,urinary frequency,5,913,0.418,3.94,3.94,2008-09-09
+signal,hydroxychloroquine,hair growth or loss,5,348,0.272,3.94,3.94,2009-11-18
+signal,ketamine,ptsd symptoms,5,142,0.027,3.94,3.94,2015-03-14
+signal,levocetirizine,headache,5,340,0.458,3.94,3.94,2008-07-13
+signal,levothyroxine,motivation,5,871,0.258,3.94,3.94,2013-10-15
+signal,lifitegrast,vision changes,5,368,0.003,3.94,3.94,2017-03-22
+signal,metronidazole,body odor,5,2721,0.01,3.94,3.94,2011-12-29
+signal,montelukast,nasal congestion,5,560,0.001,3.94,3.94,2011-09-05
+signal,prazosin,night terrors,5,378,0.048,3.94,3.94,2015-06-02
+signal,prazosin,parasomnias,5,378,0.017,3.94,3.94,2010-07-01
+signal,prednisone,dermatitis,5,821,0.021,3.94,3.94,2011-02-27
+signal,pregabalin,alcohol use,5,1597,0.223,3.94,3.94,2008-08-19
+signal,semaglutide,irritable bowel symptoms,5,2105,0.437,3.94,2.58,2022-09-04
+signal,terazosin,urinary frequency,5,162,0.029,3.94,3.94,2009-03-23
+signal,testosterone,energy level,5,538,0.267,3.94,3.933,2010-05-15
+signal,testosterone,other: muscle mass,5,538,0.008,3.94,3.94,2008-07-07
+signal,tirzepatide,liver problems,5,989,0.0,3.94,3.94,2022-12-27
+signal,tramadol,alcohol use,5,1803,0.418,3.94,2.603,2009-02-08
+signal,tramadol,euphoria,5,1803,0.076,3.94,3.94,2012-03-31
+signal,tramadol,mood,75,1803,15.797,3.883,2.142,2008-03-24
+signal,bupropion,energy level,535,6038,128.579,3.869,2.11,2007-10-24
+signal,bupropion,sexual function,37,6038,7.157,3.855,2.102,2008-01-06
+signal,bupropion,drug craving,18,6038,3.024,3.848,2.098,2007-11-21
+signal,tretinoin,skin discoloration,9,454,1.221,3.845,3.917,2010-04-27
+signal,quetiapine,sleep duration,75,4715,15.978,3.839,2.531,2007-09-18
+signal,propranolol,headache,35,1891,6.795,3.807,4.38,2007-09-25
+signal,atomoxetine,stress,5,603,0.519,3.796,3.239,2008-07-24
+signal,venlafaxine,hot flashes,75,6322,16.393,3.742,4.794,2007-10-28
+signal,bupropion,motivation,40,6038,8.082,3.736,2.038,2007-11-21
+signal,isotretinoin,other: oily skin,9,1048,1.259,3.729,4.551,2008-04-28
+signal,armodafinil,mobility,5,392,0.531,3.714,3.332,2011-10-19
+signal,diazepam,pain,26,1296,4.91,3.711,3.307,2008-09-27
+signal,bupropion,attention,205,6038,49.06,3.71,2.023,2007-11-18
+signal,trazodone,sleep quality,107,1404,24.441,3.706,2.496,2008-05-21
+signal,methadone,drug craving,23,607,4.255,3.694,2.279,2008-06-29
+signal,atenolol,chest pain,6,1311,0.709,3.686,3.254,2007-12-25
+signal,lorcaserin,cholesterol,9,901,1.286,3.652,2.785,2014-03-07
+signal,atenolol,heart rate,27,1311,5.253,3.628,3.203,2007-11-10
+signal,sertraline,nervousness,5,7207,0.546,3.61,3.858,2008-03-11
+signal,drospirenone / ethinyl estradiol,acne,510,2824,132.469,3.574,1.759,2008-05-13
+signal,pregabalin,muscle spasms,5,1597,0.553,3.563,3.565,2010-11-28
+signal,endep,sleep quality,10,30,1.525,3.557,2.777,2010-02-08
+signal,amitriptyline,irritable bowel symptoms,16,3072,2.925,3.431,1.888,2007-11-20
+signal,adapalene,wrinkles,8,481,1.161,3.43,4.528,2016-07-13
+signal,gabapentin,back pain,34,2552,7.364,3.396,2.019,2009-09-16
+signal,quetiapine,parasomnias,5,4715,0.58,3.396,2.238,2010-08-10
+signal,tadalafil,sexual function,5,748,0.584,3.374,1.63,2011-10-24
+signal,tirzepatide,body weight,319,989,86.501,3.355,1.209,2022-06-29
+signal,acetaminophen / diphenhydramine,sleep quality,5,64,0.592,3.33,3.121,2010-02-20
+signal,atenolol,blood pressure,17,1311,3.286,3.296,2.91,2007-10-28
+signal,ledipasvir / sofosbuvir,cognitive function,9,351,1.426,3.293,2.134,2015-05-07
+signal,brexpiprazole,motivation,5,555,0.602,3.274,3.525,2016-12-29
+signal,citalopram,chest pain,7,5410,1.005,3.27,3.662,2007-12-24
+signal,lisinopril,blood pressure,15,4053,2.831,3.266,4.583,2007-10-29
+signal,phentermine,energy level,264,3040,72.938,3.261,3.11,2008-04-09
+signal,hydroxyzine,nausea,15,2437,2.846,3.249,3.428,2008-06-03
+signal,doxepin,sleep quality,53,657,12.869,3.234,2.956,2007-09-27
+signal,lisdexamfetamine,eating behavior,14,1022,2.626,3.223,2.334,2009-10-12
+signal,amitriptyline,pain,66,3072,16.522,3.222,1.773,2008-01-26
+signal,bupropion,appetite,126,6038,33.601,3.218,1.755,2007-10-15
+signal,bupropion,orgasm,16,6038,3.127,3.21,1.75,2008-01-10
+signal,gabapentin,alcohol craving,31,2552,7.016,3.199,1.902,2011-01-29
+signal,methylphenidate,attention,15,1041,2.899,3.19,3.245,2008-07-21
+signal,quetiapine,adhd symptoms,8,4715,1.259,3.161,2.084,2009-01-05
+signal,atomoxetine,irritability,10,603,1.717,3.159,2.695,2009-05-07
+signal,spironolactone,premenstrual mood symptoms,8,1119,1.263,3.152,1.941,2007-10-26
+signal,levothyroxine,appetite,5,871,0.625,3.15,3.446,2009-11-30
+signal,adapalene,skin discoloration,9,481,1.501,3.127,4.128,2015-04-10
+signal,duloxetine,joint pain,22,6678,4.792,3.108,2.903,2007-10-26
+signal,liraglutide,appetite,126,2702,35.026,3.087,2.272,2010-03-11
+signal,drospirenone / ethinyl estradiol,skin irritation,7,2824,1.067,3.08,1.516,2010-12-26
+signal,drospirenone / ethinyl estradiol,bloating,28,2824,6.465,3.078,1.515,2008-05-13
+signal,hydrochlorothiazide,body weight,22,913,4.855,3.068,2.784,2008-11-22
+signal,ethinyl estradiol / norgestimate,menstrual cycle,341,5449,101.818,3.056,1.978,2009-04-23
+signal,bupropion,eating behavior,56,6038,14.601,3.033,1.654,2009-01-22
+signal,tizanidine,sleep quality,63,370,16.743,3.018,1.633,2008-07-09
+signal,drospirenone / ethinyl estradiol,irritability,6,2824,0.869,3.009,1.481,2009-08-01
+signal,clomipramine,obsessive-compulsive symptoms,5,378,0.661,2.98,3.94,2010-07-31
+signal,tramadol,depression,41,1803,10.469,2.968,1.637,2009-02-08
+signal,escitalopram,crying,29,7591,6.997,2.965,3.214,2008-01-30
+signal,drospirenone,headache,10,306,1.834,2.958,2.236,2021-03-01
+signal,fluoxetine,emotional regulation,22,3944,5.036,2.958,2.9,2008-12-12
+signal,nebivolol,heart rhythm,8,1073,1.348,2.954,1.651,2008-10-29
+signal,nortriptyline,nerve pain,5,1077,0.669,2.946,2.202,2011-02-02
+signal,exenatide,appetite,87,909,24.579,2.939,1.695,2007-10-02
+signal,clonidine,sleep duration,11,1240,2.103,2.933,2.842,2007-10-15
+signal,5-hydroxytryptophan,depression,11,198,2.105,2.93,2.278,2016-01-05
+signal,hytrin,blood pressure,6,48,0.892,2.93,1.916,2010-02-03
+signal,bupropion,mood,87,6038,24.905,2.901,1.582,2007-10-21
+signal,ethinyl estradiol / norelgestromin,breast enlargement,55,843,14.972,2.898,2.948,2010-08-02
+signal,quetiapine,paranoia,9,4715,1.622,2.895,1.908,2009-02-19
+signal,trazodone,depression,26,1404,6.421,2.837,1.911,2009-08-20
+signal,ethinyl estradiol / norgestimate,acne,899,5449,299.791,2.836,1.835,2008-02-27
+signal,norethindrone,headache,31,1573,7.918,2.835,3.345,2011-12-19
+signal,lithium,aggression,7,962,1.164,2.822,4.842,2007-12-16
+signal,quetiapine,night terrors,7,4715,1.165,2.819,1.858,2010-03-24
+signal,methylprednisolone,pain,7,456,1.175,2.797,2.331,2008-03-10
+signal,gabapentin,neuropathy,7,2552,1.179,2.787,1.657,2010-04-22
+signal,semaglutide,appetite,166,2105,52.165,2.787,1.594,2018-08-23
+signal,tofacitinib,energy level,7,156,1.18,2.785,1.447,2015-10-12
+signal,trazodone,night terrors,5,1404,0.708,2.783,1.875,2008-05-21
+signal,bupropion / naltrexone,fibromyalgia symptoms,5,1807,0.709,2.778,2.151,2015-10-07
+signal,buspirone,anxiety,8,1306,1.449,2.748,3.872,2009-08-25
+signal,drospirenone / ethinyl estradiol / levomefolate,acne,53,244,15.172,2.743,1.46,2011-03-29
+signal,acamprosate,smoking behavior,4,238,0.014,2.733,2.733,2010-08-22
+signal,acetaminophen / butalbital / caffeine,sleep quality,4,258,0.31,2.733,2.733,2016-11-05
+signal,acetaminophen / propoxyphene,headache,4,74,0.393,2.733,2.733,2008-07-02
+signal,alprazolam,atrial fibrillation,4,4225,0.003,2.733,2.733,2008-01-15
+signal,alprazolam,tic disorders,4,4225,0.071,2.733,2.733,2009-06-02
+signal,amlodipine / atorvastatin,cholesterol,4,39,0.0,2.733,2.733,2007-12-20
+signal,amlodipine / olmesartan,mood,4,314,0.334,2.733,2.733,2009-05-12
+signal,azelastine,cough,4,169,0.21,2.733,2.733,2014-04-10
+signal,bisacodyl,body weight,4,1566,0.447,2.733,2.733,2015-10-21
+signal,bupropion / naltrexone,thirst,4,1807,0.0,2.733,2.733,2015-05-17
+signal,buspirone,paranoia,4,1306,0.409,2.733,2.733,2017-04-28
+signal,cabergoline,depression,4,89,0.152,2.733,2.733,2015-02-11
+signal,clonidine,ptsd symptoms,4,1240,0.394,2.733,2.733,2009-12-10
+signal,dabigatran,bruising,4,93,0.0,2.733,2.733,2011-06-04
+signal,dalfampridine,cognitive function,4,79,0.007,2.733,2.733,2010-03-30
+signal,diclofenac,arthritis,4,1135,0.204,2.733,2.733,2014-03-10
+signal,dienogest / estradiol,premenstrual mood symptoms,4,72,0.411,2.733,1.755,2012-08-11
+signal,doxepin,irritable bowel symptoms,4,657,0.364,2.733,2.733,2012-04-18
+signal,doxycycline,sinus infection,4,1614,0.247,2.733,2.733,2013-07-21
+signal,dulaglutide,blood glucose,4,1262,0.296,2.733,2.733,2017-05-14
+signal,estradiol,dry skin,4,1000,0.016,2.733,2.733,2013-10-31
+signal,estradiol,other: vaginal dryness,4,1000,0.006,2.733,2.733,2014-09-15
+signal,"estrogens, esterified (usp) / methyltestosterone",energy level,4,30,0.354,2.733,2.586,2009-09-05
+signal,"estrogens, esterified (usp) / methyltestosterone",sex drive,4,30,0.177,2.733,2.733,2009-06-09
+signal,guaifenesin,irritable bowel symptoms,4,295,0.279,2.733,2.733,2012-02-24
+signal,guaifenesin,nasal congestion,4,295,0.293,2.733,2.733,2009-08-10
+signal,guaifenesin,sputum production,4,295,0.0,2.733,2.733,2013-06-07
+signal,hydroxyzine,dermatitis,4,2437,0.029,2.733,2.733,2015-08-04
+signal,isotretinoin,social behavior,4,1048,0.347,2.733,2.733,2009-12-24
+signal,ledipasvir / sofosbuvir,appetite,4,351,0.042,2.733,2.733,2015-04-14
+signal,leuprolide,tumor size,4,378,0.003,2.733,2.733,2010-11-03
+signal,levocetirizine,cough,4,340,0.238,2.733,2.733,2016-02-20
+signal,levothyroxine,bloating,4,871,0.07,2.733,2.733,2014-11-10
+signal,lisinopril,kidney function,4,4053,0.0,2.733,2.733,2008-03-19
+signal,losartan,erection,4,897,0.357,2.733,2.733,2009-11-27
+signal,meloxicam,joint pain,4,599,0.481,2.733,2.733,2010-05-02
+signal,metformin,vision changes,4,2233,0.456,2.733,2.733,2011-01-26
+signal,methadone,other: life stability,4,607,0.0,2.733,2.733,2012-02-08
+signal,mirtazapine,taste disturbance,4,1957,0.001,2.733,2.733,2019-09-07
+signal,naltrexone,appetite,4,588,0.477,2.733,2.733,2015-01-18
+signal,naltrexone,food cravings,4,588,0.103,2.733,2.733,2021-03-05
+signal,naproxen,inflammation,4,679,0.042,2.733,2.733,2011-02-20
+signal,nebivolol,mobility,4,1073,0.278,2.733,2.733,2009-11-10
+signal,norethindrone,irritability,4,1573,0.46,2.733,2.733,2015-10-25
+signal,omalizumab,asthma,4,239,0.001,2.733,2.733,2016-04-04
+signal,orlistat,constipation,4,388,0.0,2.733,2.733,2014-03-23
+signal,phentermine,appetite,4,3040,0.115,2.733,2.733,2008-08-13
+signal,prednisone,asthma,4,821,0.416,2.733,2.733,2015-04-09
+signal,pregabalin,withdrawal symptoms,4,1597,0.351,2.733,2.733,2013-11-28
+signal,quetiapine,confusion,4,4715,0.011,2.733,2.733,2008-02-03
+signal,sacubitril / valsartan,low ejection fraction,4,169,0.0,2.733,2.733,2017-03-24
+signal,tadalafil,pain,4,748,0.121,2.733,2.733,2013-09-06
+signal,tadalafil,urinary urgency,4,748,0.0,2.733,2.733,2012-05-22
+signal,tamsulosin,urinary incontinence,4,540,0.014,2.733,2.733,2012-06-30
+signal,tazarotene,skin discoloration,4,68,0.216,2.733,2.733,2016-01-08
+signal,terazosin,urinary retention,4,162,0.004,2.733,2.733,2009-06-27
+signal,terbinafine,dry skin,4,488,0.005,2.733,2.733,2008-07-05
+signal,terbinafine,skin infection,4,488,0.004,2.733,2.733,2010-01-31
+signal,teriparatide,back pain,4,129,0.239,2.733,2.733,2015-09-09
+signal,testosterone,erection,4,538,0.01,2.733,2.733,2012-01-01
+signal,testosterone,other: muscle tone,4,538,0.006,2.733,2.733,2010-06-05
+signal,tirzepatide,inflammation,4,989,0.015,2.733,2.733,2022-11-22
+signal,tirzepatide,joint pain,4,989,0.28,2.733,1.757,2022-11-22
+signal,topiramate,other: migraine relief,4,1312,0.0,2.733,2.733,2008-08-07
+signal,topiramate,seizures,4,1312,0.067,2.733,2.733,2013-05-04
+signal,tramadol,leg pain,4,1803,0.0,2.733,2.733,2009-06-17
+signal,trazodone,ptsd symptoms,4,1404,0.441,2.733,2.086,2008-09-24
+signal,tretinoin,acne,4,454,0.498,2.733,2.733,2016-01-08
+signal,tretinoin,other: smaller pores,4,454,0.001,2.733,2.733,2015-03-16
+signal,venlafaxine,vertigo,4,6322,0.338,2.733,2.733,2007-10-03
+signal,mirtazapine,nausea,8,1957,1.463,2.721,1.386,2011-09-15
+signal,eicosapentaenoate,energy level,4,123,0.503,2.718,1.086,2015-06-15
+signal,quetiapine,impulse control,14,4715,3.115,2.717,1.791,2008-02-27
+signal,clonazepam,drug craving,4,2046,0.505,2.707,2.733,2009-10-30
+signal,clonidine,impulse control,4,1240,0.505,2.706,2.621,2008-04-01
+signal,aripiprazole,paranoia,5,3189,0.728,2.705,3.229,2016-10-31
+signal,drospirenone / ethinyl estradiol,ovarian cysts,8,2824,1.473,2.703,1.33,2007-09-05
+signal,drospirenone / ethinyl estradiol,premenstrual mood symptoms,48,2824,13.799,2.696,1.327,2008-04-04
+signal,dimenhydrinate,anxiety,5,75,0.734,2.685,1.657,2009-07-08
+signal,drospirenone / ethinyl estradiol,cyst size,5,2824,0.735,2.68,1.319,2017-01-06
+signal,drospirenone / ethinyl estradiol,breast enlargement,109,2824,34.636,2.668,1.313,2009-05-09
+signal,tramadol,attention,20,1803,4.989,2.657,1.466,2008-12-28
+signal,bupropion,alcohol craving,25,6038,6.554,2.652,1.446,2009-04-07
+signal,primidone,sleep quality,4,106,0.515,2.652,2.733,2012-02-04
+signal,sertraline,premenstrual mood symptoms,26,7207,6.87,2.652,2.834,2007-10-21
+signal,atenolol,heart rhythm,7,1311,1.239,2.651,2.341,2008-02-20
+signal,methadone,social behavior,6,607,0.988,2.645,1.632,2009-01-21
+signal,exenatide,body weight,265,909,90.357,2.643,1.524,2007-09-25
+signal,tramadol,arthritis,7,1803,1.247,2.634,1.453,2011-03-02
+signal,duloxetine,depression,121,6678,39.348,2.63,2.457,2007-09-27
+signal,sildenafil,orgasm,10,485,2.071,2.62,2.998,2015-08-14
+signal,vilazodone,sex drive,32,953,8.899,2.618,2.808,2011-09-07
+signal,prednisone,edema,5,821,0.757,2.603,2.928,2011-06-21
+signal,buprenorphine,sleep duration,4,1097,0.528,2.589,2.733,2012-01-20
+signal,azelastine,dyspnea,4,169,0.529,2.58,2.19,2019-09-30
+signal,prednisone,arthritis,4,821,0.53,2.579,2.733,2015-03-26
+signal,homatropine / hydrocodone,sleep quality,10,94,2.106,2.577,1.299,2008-07-15
+signal,atenolol,dyspnea,5,1311,0.765,2.576,2.274,2007-11-18
+signal,methylprednisolone,edema,4,456,0.53,2.576,2.147,2015-12-19
+signal,asenapine,sleep quality,88,605,28.414,2.575,1.504,2010-01-11
+signal,acamprosate,mood,8,238,1.549,2.57,2.09,2010-10-25
+signal,liraglutide,blood glucose,17,2702,4.216,2.569,1.891,2010-10-26
+signal,oxybate,sleep quality,6,128,1.017,2.569,2.527,2015-02-24
+signal,estradiol,cognitive function,10,1000,2.123,2.556,2.922,2011-03-23
+signal,testosterone,body weight,30,538,8.493,2.543,1.354,2008-01-05
+signal,asenapine,sleep duration,15,605,3.637,2.542,1.485,2010-06-12
+signal,tadalafil,ejaculation,17,748,4.28,2.531,1.223,2011-03-21
+signal,bupropion,alertness,28,6038,7.889,2.523,1.376,2007-10-11
+signal,fluvoxamine,obsessive-compulsive symptoms,9,555,1.876,2.502,3.78,2007-11-21
+signal,azelastine / fluticasone,headache,4,142,0.552,2.477,2.546,2018-11-08
+signal,drospirenone / ethinyl estradiol,vomiting,4,2824,0.553,2.469,1.215,2011-09-21
+signal,dupilumab,allergic reaction,4,389,0.554,2.468,1.569,2017-10-08
+signal,desvenlafaxine,motivation,9,1350,1.903,2.467,1.976,2009-10-22
+signal,pregabalin,nerve pain,11,1597,2.508,2.46,2.462,2009-06-12
+signal,duloxetine,bipolar symptoms,6,6678,1.063,2.459,2.297,2007-10-11
+signal,tretinoin,skin scarring,9,454,1.916,2.45,2.496,2013-11-26
+signal,amitriptyline,stomach pain,4,3072,0.559,2.444,1.345,2007-12-28
+signal,propranolol,blood pressure,20,1891,5.436,2.438,2.805,2007-10-11
+signal,diazepam,anxiety,26,1296,7.487,2.433,2.169,2007-09-24
+signal,liraglutide,body weight,360,2702,136.175,2.419,1.78,2010-02-16
+signal,asenapine,alertness,4,605,0.57,2.397,1.4,2011-03-20
+signal,lamotrigine,mobility,6,1690,1.092,2.393,2.63,2014-08-30
+signal,spironolactone,breast enlargement,11,1119,2.582,2.39,1.472,2009-04-27
+signal,5-hydroxytryptophan,mood,16,198,4.208,2.385,1.854,2012-08-13
+signal,fluoxetine,motivation,23,3944,6.59,2.385,2.339,2008-10-12
+signal,clonidine,sleep quality,61,1240,20.657,2.36,2.286,2008-03-21
+signal,semaglutide,eating behavior,32,2105,9.884,2.357,1.348,2019-04-24
+signal,acamprosate,body weight,6,238,1.113,2.348,1.91,2015-04-15
+signal,semaglutide,blood glucose,18,2105,4.958,2.347,1.343,2020-11-29
+signal,ethinyl estradiol / norgestimate,unintended pregnancy,6,5449,1.118,2.337,1.512,2011-08-26
+signal,lorcaserin,blood glucose,9,901,2.011,2.335,1.781,2013-06-22
+signal,liraglutide,eating behavior,19,2702,5.336,2.332,1.716,2010-05-22
+signal,dronabinol,mood,4,57,0.589,2.321,1.142,2015-09-03
+signal,ethinyl estradiol / norethindrone,cyst size,10,7346,2.339,2.319,1.642,2009-09-01
+signal,desogestrel / ethinyl estradiol,menstrual cycle,96,1441,34.901,2.306,1.539,2008-07-22
+signal,topiramate,alcohol use,5,1312,0.858,2.297,1.586,2015-11-27
+signal,lorazepam,anxiety,49,2355,16.591,2.295,2.673,2007-10-26
+signal,hydrochlorothiazide / valsartan,edema,5,377,0.86,2.29,3.257,2008-03-29
+signal,metoprolol,heart palpitations,9,2424,2.053,2.288,2.369,2007-09-24
+signal,desogestrel / ethinyl estradiol,crying,4,1441,0.599,2.281,1.522,2015-04-07
+signal,drospirenone / ethinyl estradiol,mood,106,2824,39.335,2.279,1.122,2009-05-06
+signal,buspirone,sex drive,13,1306,3.395,2.265,3.192,2009-08-25
+signal,"estrogens, conjugated (usp)",sleep quality,4,109,0.608,2.247,1.391,2013-05-09
+signal,olanzapine,obsessive-compulsive symptoms,19,1588,5.546,2.243,2.075,2007-10-30
+signal,lamotrigine,impulse control,9,1690,2.098,2.238,2.46,2013-10-26
+signal,tramadol,alertness,6,1803,1.168,2.237,1.234,2011-01-04
+signal,doxepin,sleep duration,5,657,0.882,2.235,2.042,2009-01-15
+signal,drospirenone / ethinyl estradiol,body weight,132,2824,50.994,2.229,1.097,2008-05-13
+signal,tramadol,joint pain,4,1803,0.615,2.221,1.225,2011-06-01
+signal,lithium,suicidality,10,962,2.457,2.209,3.789,2007-11-07
+signal,pexeva,depression,4,55,0.619,2.208,2.733,2008-07-15
+signal,venlafaxine,night sweats,14,6322,3.838,2.205,2.825,2007-12-13
+signal,omeprazole,acid reflux,6,472,1.188,2.2,3.02,2013-09-01
+signal,cyclobenzaprine,muscle stiffness,4,604,0.621,2.199,2.336,2014-10-02
+signal,diazepam,stress,9,1296,2.145,2.188,1.95,2008-01-03
+signal,tramadol,cognitive function,25,1803,7.951,2.186,1.206,2007-11-27
+signal,amitriptyline,dizziness,4,3072,0.628,2.176,1.198,2017-02-07
+signal,clonidine,behavior,8,1240,1.832,2.173,2.105,2009-08-14
+signal,methadone,pain,8,607,1.832,2.173,1.341,2008-08-31
+signal,zonisamide,body weight,8,142,1.839,2.165,2.226,2012-01-04
+signal,buspirone,heart palpitations,5,1306,0.917,2.149,3.028,2009-02-28
+signal,nortriptyline,irritable bowel symptoms,6,1077,1.221,2.14,1.599,2010-09-16
+signal,linaclotide,energy level,8,910,1.866,2.133,2.187,2013-02-25
+signal,ibuprofen,headache,5,220,0.924,2.132,3.249,2008-12-05
+signal,thyroid (usp),body weight,16,588,4.719,2.127,2.301,2010-04-07
+signal,hydroxychloroquine,pain,10,348,2.558,2.121,1.618,2011-07-25
+signal,bupropion,compulsive behavior,11,6038,2.918,2.114,1.153,2008-07-31
+signal,bupropion,depression,30,6038,10.222,2.112,1.152,2008-02-02
+signal,risperidone,obsessive-compulsive symptoms,15,1364,4.389,2.107,2.471,2007-11-19
+signal,drospirenone / ethinyl estradiol / levomefolate,bloating,4,244,0.649,2.106,1.121,2011-03-05
+signal,liothyronine,energy level,17,88,5.143,2.106,1.146,2010-09-29
+signal,milnacipran,cognitive function,15,337,4.39,2.106,1.904,2009-06-16
+signal,tramadol,energy level,67,1803,25.755,2.102,1.159,2009-05-25
+signal,ethinyl estradiol / ethynodiol,menstrual cycle,8,74,1.895,2.101,1.582,2009-12-28
+signal,quetiapine,hallucinations,8,4715,1.901,2.094,1.38,2008-12-14
+signal,hydrochlorothiazide,blood pressure,5,913,0.941,2.093,1.899,2009-01-27
+signal,phentermine,attention,22,3040,7.136,2.087,1.99,2009-07-11
+signal,drospirenone / ethinyl estradiol,food cravings,7,2824,1.577,2.083,1.025,2008-05-13
+signal,methylphenidate,food cravings,4,1041,0.657,2.078,2.114,2016-04-14
+signal,dienogest / estradiol,menstrual bleeding,20,72,6.383,2.077,1.096,2011-01-07
+signal,tramadol,back pain,19,1803,6.004,2.072,1.143,2009-01-19
+signal,aripiprazole,hallucinations,4,3189,0.664,2.059,2.458,2008-09-22
+signal,niacin,anxiety,10,114,2.645,2.052,1.707,2016-02-24
+signal,testosterone,irritability,4,538,0.668,2.045,1.089,2009-01-29
+signal,canagliflozin,blood pressure,6,474,1.281,2.04,1.522,2015-01-22
+signal,levonorgestrel (iud),bleeding,32,5126,11.42,2.04,3.159,2009-03-18
+signal,pramipexole,energy level,4,234,0.67,2.04,2.359,2008-12-09
+signal,topiramate,other: migraine frequency,4,1312,0.671,2.037,1.406,2010-05-22
+signal,valproate,headache,7,642,1.614,2.036,2.572,2008-05-08
+signal,drospirenone,pain,5,306,0.969,2.034,1.537,2021-09-08
+signal,indomethacin,pain,4,215,0.673,2.03,2.733,2008-09-19
+signal,atenolol,headache,22,1311,7.34,2.029,1.792,2007-09-26
+signal,semaglutide,body weight,445,2105,202.879,2.025,1.159,2018-06-27
+signal,escitalopram,ejaculation,7,7591,1.626,2.021,2.19,2013-01-15
+signal,baclofen,alcohol craving,23,430,7.783,2.02,1.612,2010-12-22
+signal,finasteride,hair growth or loss,4,295,0.677,2.019,2.733,2009-07-16
+signal,baclofen,alcohol use,17,430,5.383,2.012,1.606,2011-12-10
+signal,ethinyl estradiol / norgestimate,breast enlargement,179,5449,78.44,2.009,1.3,2009-07-05
+signal,bupropion / naltrexone,mood,28,1807,9.936,2.003,1.551,2014-12-17
+signal,topiramate,vertigo,4,1312,0.682,2.003,1.383,2015-01-15
+signal,zonisamide,headache,5,142,0.984,2.002,2.058,2009-10-04
+signal,desogestrel / ethinyl estradiol,acne,241,1441,107.962,2.001,1.335,2010-06-11
+signal,empagliflozin,blood pressure,6,456,1.314,1.989,2.039,2016-12-24
+signal,escitalopram,bowel movement frequency,4,7591,0.687,1.989,2.157,2011-10-08
+signal,copper,sexual function,5,1465,0.994,1.983,3.94,2015-03-29
+signal,tramadol,withdrawal symptoms,4,1803,0.689,1.983,1.094,2013-09-13
+signal,fluoxetine,impulse control,6,3944,1.319,1.981,1.942,2008-12-24
+signal,olanzapine,agitation,5,1588,0.995,1.98,1.832,2017-11-03
+signal,tramadol,restless legs,6,1803,1.323,1.975,1.089,2009-09-30
+signal,flibanserin,sleep quality,5,60,0.999,1.973,2.392,2020-06-28
+signal,bupropion,memory,21,6038,7.142,1.97,1.074,2008-03-26
+signal,pregabalin,alcohol craving,4,1597,0.695,1.966,1.967,2008-08-19
+signal,amphetamine / dextroamphetamine,cognitive function,7,1048,1.673,1.964,2.044,2008-09-09
+signal,nortriptyline,sleep quality,91,1077,38.646,1.964,1.468,2007-10-23
+signal,lamotrigine,mood,22,1690,7.598,1.96,2.154,2012-01-11
+signal,levonorgestrel (iud),sexual function,10,5126,2.769,1.959,3.033,2010-12-07
+signal,lisdexamfetamine,self-esteem,16,1022,5.122,1.959,1.419,2008-12-09
+signal,gabapentin,anxiety,72,2552,29.941,1.958,1.164,2008-03-14
+signal,modafinil,energy level,37,500,14.101,1.957,1.585,2008-07-18
+signal,meloxicam,pain,13,599,3.944,1.95,2.267,2009-11-24
+signal,prednisone,pain,8,821,2.049,1.943,2.185,2011-01-22
+signal,spironolactone,blood pressure,7,1119,1.691,1.943,1.197,2009-08-23
+signal,mirtazapine,body weight,51,1957,20.526,1.941,0.989,2009-04-10
+signal,bupropion,impulse control,10,6038,2.799,1.938,1.057,2010-05-02
+signal,fluoxetine,obsessive-compulsive symptoms,50,3944,20.224,1.927,1.889,2007-12-09
+signal,diazepam,nerve pain,5,1296,1.026,1.921,1.712,2013-12-16
+signal,ethinyl estradiol / norethindrone,night sweats,4,7346,0.712,1.92,1.359,2016-12-22
+signal,multivitamin,energy level,4,198,0.712,1.918,2.461,2012-09-27
+signal,fluoxetine,compulsive behavior,8,3944,2.077,1.917,1.879,2009-06-25
+signal,drospirenone / ethinyl estradiol / levomefolate,body weight,16,244,5.253,1.911,1.017,2011-06-28
+signal,atomoxetine,anxiety,48,603,19.561,1.902,1.622,2011-01-11
+signal,estradiol / ethinyl estradiol / levonorgestrel,breakthrough bleeding,50,4677,20.491,1.902,1.406,2008-08-29
+signal,drospirenone / ethinyl estradiol,self-esteem,10,2824,2.855,1.9,0.935,2013-03-28
+signal,montelukast,dyspnea,4,560,0.719,1.899,1.134,2016-08-08
+signal,lorcaserin,joint pain,5,901,1.039,1.896,1.446,2014-03-07
+signal,lamotrigine,dissociation,5,1690,1.04,1.894,2.081,2016-08-29
+signal,tirzepatide,energy level,37,989,14.567,1.894,0.682,2022-09-15
+signal,testosterone,self-esteem,4,538,0.726,1.882,1.002,2012-01-22
+signal,drospirenone,mood,18,306,6.184,1.881,1.422,2020-03-29
+signal,mirtazapine,depression,29,1957,11.053,1.877,0.956,2009-06-05
+signal,modafinil,alertness,20,500,7.076,1.873,1.517,2008-04-12
+signal,testosterone,depression,8,538,2.131,1.868,0.995,2009-11-13
+signal,hydrochlorothiazide / telmisartan,energy level,4,156,0.735,1.86,2.565,2008-09-17
+signal,paroxetine,agoraphobia,12,3058,3.733,1.855,2.294,2009-04-06
+signal,cyclobenzaprine,sleep duration,10,604,2.937,1.847,1.962,2010-12-11
+signal,ethinyl estradiol / norethindrone,nausea,13,7346,4.184,1.838,1.301,2009-11-01
+signal,nebivolol,anxiety,19,1073,6.772,1.837,1.027,2008-10-25
+signal,lumateperone,social behavior,7,216,1.798,1.827,1.88,2021-11-10
+signal,olanzapine,sleep quality,136,1588,64.501,1.82,1.684,2008-03-19
+signal,drospirenone,anxiety,5,306,1.087,1.813,1.37,2021-02-05
+signal,gabapentin,arthritis,5,2552,1.087,1.813,1.077,2013-05-23
+signal,citalopram,stress,32,5410,12.858,1.812,2.029,2007-11-20
+signal,epinephrine,body weight,15,86,5.103,1.812,0.994,2013-05-22
+signal,nortriptyline,pain,12,1077,3.829,1.809,1.352,2010-01-26
+signal,alprazolam,tremor,9,4225,2.597,1.808,2.085,2008-07-07
+signal,drospirenone,premenstrual mood symptoms,8,306,2.21,1.801,1.361,2020-09-03
+signal,bupropion / naltrexone,anxiety,6,1807,1.455,1.796,1.391,2014-11-29
+signal,cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,energy level,8,113,2.219,1.794,1.15,2016-04-12
+signal,vortioxetine,cognitive function,40,1494,16.847,1.792,1.987,2014-02-28
+signal,desvenlafaxine,addiction or dependence,4,1350,0.765,1.787,1.431,2010-08-21
+signal,desvenlafaxine,mood,21,1350,7.88,1.786,1.431,2008-06-18
+signal,guanfacine,irritability,5,381,1.107,1.78,1.529,2007-10-09
+signal,tramadol,social behavior,13,1803,4.321,1.78,0.982,2015-04-02
+signal,amitriptyline,back pain,17,3072,6.091,1.778,0.979,2008-01-26
+signal,desogestrel / ethinyl estradiol,breast enlargement,57,1441,25.444,1.776,1.185,2009-10-10
+signal,levomilnacipran,energy level,18,202,6.565,1.772,1.764,2014-05-01
+signal,olanzapine,insomnia,8,1588,2.25,1.769,1.637,2010-08-11
+signal,ethinyl estradiol / norethindrone,ovarian cysts,15,7346,5.281,1.751,1.239,2010-06-22
+signal,levomefolate,energy level,10,91,3.108,1.746,2.088,2010-12-15
+signal,desvenlafaxine,energy level,88,1350,41.934,1.745,1.398,2008-06-24
+signal,lamotrigine,behavior,17,1690,6.211,1.744,1.917,2008-05-14
+signal,gabapentin,fibromyalgia symptoms,11,2552,3.539,1.743,1.036,2008-02-25
+signal,mirtazapine,anxiety,96,1957,46.233,1.741,0.886,2009-10-25
+signal,amlodipine / olmesartan,sleep quality,5,314,1.133,1.739,1.735,2009-03-14
+signal,propranolol,dyspnea,4,1891,0.787,1.737,1.998,2010-05-19
+signal,amlodipine,headache,13,794,4.428,1.736,2.056,2008-06-23
+signal,spironolactone,skin irritation,4,1119,0.794,1.722,1.06,2012-05-24
+signal,adapalene,skin scarring,8,481,2.319,1.717,2.266,2011-08-31
+signal,atenolol,anxiety,23,1311,9.171,1.714,1.513,2007-10-12
+signal,gabapentin,withdrawal symptoms,4,2552,0.799,1.71,1.017,2008-12-28
+signal,ziprasidone,body weight,42,1184,18.687,1.709,1.921,2007-09-23
+signal,hydroxychloroquine,energy level,14,348,4.966,1.704,1.301,2008-06-05
+signal,varenicline,alcohol use,10,1713,3.192,1.7,2.975,2009-12-03
+signal,metoprolol,dyspnea,5,2424,1.161,1.697,1.757,2013-04-29
+signal,prochlorperazine,headache,5,455,1.167,1.689,2.96,2017-07-11
+signal,lisdexamfetamine,body weight,23,1022,9.385,1.675,1.213,2008-04-30
+signal,liraglutide,food cravings,24,2702,9.893,1.673,1.231,2010-04-08
+signal,hydroxyzine,anxiety,42,2437,19.123,1.67,1.763,2008-03-20
+signal,guanfacine,sleep quality,15,381,5.546,1.667,1.432,2011-08-23
+signal,gabapentin,alcohol use,20,2552,7.959,1.665,0.99,2012-07-28
+signal,semaglutide,mobility,6,2105,1.572,1.662,0.951,2022-01-25
+signal,desvenlafaxine,appetite,25,1350,10.486,1.658,1.328,2008-11-30
+signal,estradiol / ethinyl estradiol / levonorgestrel,appetite,32,4677,14.05,1.658,1.226,2008-12-24
+signal,trazodone,insomnia,5,1404,1.19,1.656,1.115,2009-05-13
+signal,lurasidone,depression,8,1298,2.405,1.655,1.438,2012-01-09
+signal,diltiazem,heart rate,6,512,1.58,1.654,1.995,2008-09-06
+signal,semaglutide,edema,5,2105,1.191,1.654,0.946,2021-12-16
+signal,escitalopram,agoraphobia,22,7591,9.015,1.652,1.791,2007-11-15
+signal,linaclotide,body weight,15,910,5.615,1.647,1.688,2014-02-04
+signal,promethazine,sleep quality,31,385,13.647,1.645,1.224,2008-09-26
+signal,drospirenone,body weight,19,306,7.591,1.639,1.239,2020-03-29
+signal,methyl salicylate,sleep quality,4,124,0.834,1.638,1.758,2014-06-26
+signal,milnacipran,energy level,36,337,16.323,1.638,1.48,2009-05-25
+signal,acetaminophen / aspirin / caffeine,back pain,3,347,0.478,1.635,1.635,2010-08-03
+signal,acetaminophen / butalbital / caffeine,mood,3,258,0.379,1.635,1.635,2021-04-03
+signal,adalimumab,nail health,3,702,0.007,1.635,1.635,2015-09-11
+signal,alfuzosin,orgasm,3,76,0.265,1.635,1.635,2012-10-18
+signal,alprazolam,drowsiness,3,4225,0.3,1.635,1.635,2009-03-07
+signal,aluminum chloride,self-esteem,3,560,0.081,1.635,1.635,2011-04-28
+signal,amantadine,cognitive function,3,49,0.326,1.635,1.635,2016-02-14
+signal,amitriptyline,cough,3,3072,0.125,1.635,1.635,2019-09-10
+signal,amitriptyline,jaw clenching,3,3072,0.417,1.635,1.079,2008-12-11
+signal,amitriptyline,muscle spasms,3,3072,0.454,1.635,0.992,2010-10-23
+signal,amlodipine,dyspnea,3,794,0.399,1.635,1.635,2009-09-10
+signal,amlodipine,other: migraine prevention,3,794,0.177,1.635,1.635,2012-04-19
+signal,amoxicillin / clarithromycin / lansoprazole,energy level,3,175,0.094,1.635,1.635,2013-06-24
+signal,amphetamine / dextroamphetamine,addiction or dependence,3,1048,0.017,1.635,1.635,2015-03-22
+signal,amphetamine / dextroamphetamine,drug craving,3,1048,0.023,1.635,1.635,2008-08-04
+signal,amphetamine / dextroamphetamine,mobility,3,1048,0.492,1.635,1.635,2009-12-04
+signal,amphetamine / dextroamphetamine,other: academic performance,3,1048,0.0,1.635,1.635,2009-07-23
+signal,amphetamine / dextroamphetamine,other: productivity,3,1048,0.001,1.635,1.635,2013-04-01
+signal,amphetamine / dextroamphetamine,other: work performance,3,1048,0.001,1.635,1.635,2010-09-30
+signal,aripiprazole,delusions,3,3189,0.116,1.635,1.635,2010-05-11
+signal,aripiprazole,other: productivity,3,3189,0.002,1.635,1.635,2009-10-22
+signal,asenapine,agitation,3,605,0.406,1.635,1.177,2013-07-02
+signal,atarax,allergic reaction,3,165,0.497,1.635,1.635,2008-06-19
+signal,atomoxetine,attention,3,603,0.182,1.635,1.635,2010-12-14
+signal,atropine / hyoscyamine / phenobarbital / scopolamine,anxiety,3,49,0.474,1.635,1.635,2011-01-13
+signal,baclofen,pain,3,430,0.469,1.635,1.391,2015-10-31
+signal,benztropine,akathisia,3,35,0.0,1.635,1.635,2021-02-04
+signal,brimonidine,other: eye redness,3,377,0.001,1.635,1.635,2019-07-15
+signal,buprenorphine,withdrawal symptoms,3,1097,0.342,1.635,1.635,2019-03-16
+signal,buprenorphine / naloxone,constipation,3,995,0.005,1.635,1.635,2016-10-05
+signal,bupropion,word-finding ability,3,6038,0.296,1.635,1.506,2008-05-31
+signal,bupropion / naltrexone,addiction or dependence,3,1807,0.251,1.635,1.635,2015-03-21
+signal,bupropion / naltrexone,cognitive function,3,1807,0.337,1.635,1.635,2016-01-14
+signal,bupropion / naltrexone,obsessive-compulsive symptoms,3,1807,0.409,1.635,1.548,2015-04-28
+signal,bupropion / naltrexone,other: coffee craving,3,1807,0.0,1.635,1.635,2016-07-18
+signal,buspirone,jaw clenching,3,1306,0.266,1.635,1.635,2009-04-20
+signal,butorphanol,headache,3,87,0.379,1.635,1.635,2011-03-15
+signal,cabergoline,other: prolactin level,3,89,0.0,1.635,1.635,2015-02-11
+signal,canagliflozin,a1c,3,474,0.018,1.635,1.635,2014-09-09
+signal,canagliflozin,triglycerides,3,474,0.213,1.635,1.635,2014-02-01
+signal,carisoprodol,muscle cramps,3,283,0.157,1.635,1.635,2013-10-29
+signal,cefuroxime,dyspnea,3,150,0.163,1.635,1.635,2009-03-05
+signal,cetirizine,sinus infection,3,294,0.138,1.635,1.635,2010-11-09
+signal,chlorhexidine,bad breath,3,54,0.0,1.635,1.635,2013-03-16
+signal,chlorpheniramine / hydrocodone,nasal congestion,3,121,0.141,1.635,1.635,2009-12-10
+signal,clonazepam,adhd symptoms,3,2046,0.472,1.635,1.635,2009-10-27
+signal,clonazepam,movement problems,3,2046,0.089,1.635,1.635,2016-04-11
+signal,clonazepam,seizures,3,2046,0.269,1.635,1.635,2012-03-22
+signal,clonidine,nausea,3,1240,0.294,1.635,1.635,2014-02-25
+signal,clonidine,restlessness,3,1240,0.326,1.635,1.635,2011-11-02
+signal,clonidine,sweating,3,1240,0.303,1.635,1.635,2018-02-05
+signal,cyclobenzaprine,muscle spasms,3,604,0.436,1.635,1.635,2009-07-15
+signal,cyclobenzaprine,pain,3,604,0.247,1.635,1.635,2008-07-01
+signal,cyproheptadine,appetite,3,190,0.132,1.635,1.635,2016-02-18
+signal,cyproheptadine,body weight,3,190,0.418,1.635,1.635,2016-02-18
+signal,dabigatran,energy level,3,93,0.176,1.635,1.635,2011-01-23
+signal,desvenlafaxine,crying,3,1350,0.415,1.635,1.577,2009-10-06
+signal,desvenlafaxine,vision changes,3,1350,0.121,1.635,1.635,2008-10-22
+signal,diazepam,balance and coordination,3,1296,0.242,1.635,1.635,2008-03-04
+signal,diazepam,drug craving,3,1296,0.417,1.635,1.635,2010-06-09
+signal,diazepam,emotional regulation,3,1296,0.399,1.635,1.635,2017-06-06
+signal,diazepam,jaw clenching,3,1296,0.249,1.635,1.635,2008-05-13
+signal,diazepam,muscle pain,3,1296,0.161,1.635,1.635,2011-04-09
+signal,diazepam,parasomnias,3,1296,0.067,1.635,1.635,2010-02-15
+signal,diazepam,withdrawal symptoms,3,1296,0.374,1.635,1.635,2007-10-30
+signal,diclofenac,joint swelling,3,1135,0.001,1.635,1.635,2009-01-19
+signal,diclofenac,muscle pain,3,1135,0.035,1.635,1.635,2013-07-09
+signal,diphenhydramine / naproxen,sleep quality,3,34,0.42,1.635,1.317,2014-10-27
+signal,doxazosin,urinary frequency,3,203,0.07,1.635,1.635,2008-03-02
+signal,doxycycline,dry eyes,3,1614,0.007,1.635,1.635,2013-08-13
+signal,doxycycline,eye irritation,3,1614,0.001,1.635,1.635,2013-11-23
+signal,doxylamine,nausea,3,211,0.002,1.635,1.635,2017-07-23
+signal,dronabinol,pain,3,57,0.068,1.635,1.635,2013-05-05
+signal,drospirenone,sleep quality,3,306,0.285,1.635,1.635,2021-08-27
+signal,duloxetine,numbness,3,6678,0.015,1.635,1.635,2008-11-23
+signal,duloxetine,urinary incontinence,3,6678,0.018,1.635,1.635,2014-04-11
+signal,dupilumab,mobility,3,389,0.431,1.635,1.205,2018-04-23
+signal,dupilumab,taste disturbance,3,389,0.003,1.635,1.635,2020-09-29
+signal,dutasteride,sleep quality,3,58,0.465,1.635,1.468,2009-01-06
+signal,eicosapentaenoate,dry eyes,3,123,0.001,1.635,1.635,2013-11-03
+signal,empagliflozin,urinary frequency,3,456,0.197,1.635,1.635,2019-08-10
+signal,ergocalciferol,cognitive function,3,27,0.037,1.635,1.635,2018-02-14
+signal,ergocalciferol,depression,3,27,0.039,1.635,1.635,2009-10-18
+signal,ergocalciferol,hair growth or loss,3,27,0.008,1.635,1.635,2008-12-22
+signal,ergocalciferol,pain,3,27,0.032,1.635,1.635,2009-10-18
+signal,escitalopram,emotion regulation,3,7591,0.445,1.635,1.635,2012-02-21
+signal,escitalopram,heart rhythm,3,7591,0.386,1.635,1.635,2017-06-25
+signal,escitalopram,other: work performance,3,7591,0.253,1.635,1.635,2009-11-06
+signal,estradiol,dyspareunia,3,1000,0.012,1.635,1.635,2009-11-04
+signal,estradiol,sexual function,3,1000,0.306,1.635,1.635,2008-05-19
+signal,estradiol,urinary incontinence,3,1000,0.018,1.635,1.635,2008-04-08
+signal,ethinyl estradiol / norelgestromin,vomiting,3,843,0.247,1.635,1.635,2017-05-31
+signal,ethinyl estradiol / norethindrone,irritable bowel symptoms,3,7346,0.074,1.635,1.635,2015-09-19
+signal,fexofenadine,dermatitis,3,174,0.0,1.635,1.635,2015-08-09
+signal,flecainide,energy level,3,175,0.423,1.635,1.635,2012-04-18
+signal,flibanserin,sleep duration,3,60,0.102,1.635,1.635,2021-03-27
+signal,fluoxetine,vision changes,3,3944,0.339,1.635,1.635,2009-05-28
+signal,fluticasone,sinus infection,3,391,0.225,1.635,1.635,2009-09-04
+signal,gabapentin,muscle pain,3,2552,0.327,1.635,1.485,2014-07-28
+signal,glecaprevir / pibrentasvir,depression,3,310,0.097,1.635,1.635,2018-08-08
+signal,guaifenesin,dyspnea,3,295,0.208,1.635,1.635,2009-11-22
+signal,guaifenesin,pain,3,295,0.148,1.635,1.635,2008-08-13
+signal,guanfacine,cognitive function,3,381,0.357,1.635,1.635,2011-04-04
+signal,guanfacine,restlessness,3,381,0.063,1.635,1.635,2015-09-24
+signal,guselkumab,arthritis,3,70,0.209,1.635,1.635,2022-06-01
+signal,hydrochlorothiazide / losartan,chest pain,3,351,0.263,1.635,1.635,2014-02-15
+signal,hydroxyzine,asthma,3,2437,0.04,1.635,1.635,2011-06-23
+signal,hydroxyzine,hives,3,2437,0.007,1.635,1.635,2008-11-08
+signal,hydroxyzine,nasal congestion,3,2437,0.023,1.635,1.635,2012-11-09
+signal,hydroxyzine,rash,3,2437,0.006,1.635,1.635,2009-09-24
+signal,isotretinoin,acne,3,1048,0.414,1.635,1.635,2016-03-23
+signal,ketoprofen,headache,3,28,0.11,1.635,1.635,2008-09-12
+signal,lamotrigine,personality,3,1690,0.269,1.635,1.635,2015-09-13
+signal,ledipasvir / sofosbuvir,joint pain,3,351,0.003,1.635,1.635,2015-03-02
+signal,levetiracetam,aura,3,430,0.304,1.635,1.635,2015-02-21
+signal,levonorgestrel (iud),other: convenience,3,5126,0.412,1.635,1.635,2012-02-25
+signal,levothyroxine,night sweats,3,871,0.048,1.635,1.635,2012-10-25
+signal,levothyroxine,skin irritation,3,871,0.012,1.635,1.635,2009-11-30
+signal,librium,alcohol craving,3,62,0.054,1.635,1.635,2009-12-26
+signal,liraglutide,back pain,3,2702,0.135,1.635,1.635,2017-02-10
+signal,liraglutide,other: insulin dose,3,2702,0.0,1.635,1.635,2010-10-28
+signal,lisdexamfetamine,word-finding ability,3,1022,0.007,1.635,1.635,2016-01-07
+signal,lorcaserin,hot flashes,3,901,0.083,1.635,1.635,2014-04-03
+signal,lorcaserin,sleep apnea,3,901,0.303,1.635,1.635,2014-05-21
+signal,losartan,cough,3,897,0.153,1.635,1.635,2009-04-27
+signal,medium chain triglycerides,cognitive function,3,22,0.081,1.635,1.635,2021-12-18
+signal,medroxyprogesterone,yeast infections,3,2446,0.476,1.635,1.635,2013-09-23
+signal,metformin,muscle pain,3,2233,0.1,1.635,1.635,2014-03-06
+signal,methadone,motivation,3,607,0.438,1.635,1.153,2008-04-24
+signal,methadone,other: crohn's symptoms,3,607,0.0,1.635,1.635,2013-06-25
+signal,methadone,self-esteem,3,607,0.05,1.635,1.635,2009-02-14
+signal,metronidazole,vaginal odor,3,2721,0.004,1.635,1.635,2014-07-16
+signal,montelukast,asthma,3,560,0.31,1.635,1.574,2017-09-05
+signal,montelukast,rhinorrhea,3,560,0.0,1.635,1.635,2009-11-09
+signal,multivitamin,nerve pain,3,198,0.009,1.635,1.635,2014-08-25
+signal,"multivitamin, prenatal",energy level,3,49,0.153,1.635,1.635,2009-11-17
+signal,nadolol,heart palpitations,3,117,0.059,1.635,1.635,2013-10-17
+signal,naltrexone,alcohol craving,3,588,0.434,1.635,1.635,2008-04-12
+signal,naltrexone,alcohol use,3,588,0.264,1.635,1.635,2015-09-27
+signal,naltrexone,compulsive behavior,3,588,0.016,1.635,1.635,2016-11-03
+signal,naltrexone,smoking craving,3,588,0.016,1.635,1.635,2016-12-31
+signal,nebivolol,erection,3,1073,0.428,1.635,1.068,2010-02-16
+signal,nebivolol,sexual function,3,1073,0.124,1.635,1.635,2010-01-16
+signal,niacin,alcohol use,3,114,0.062,1.635,1.635,2019-08-21
+signal,nifedipine,cold extremities,3,298,0.0,1.635,1.635,2008-11-17
+signal,norethindrone,blood pressure,3,1573,0.07,1.635,1.635,2016-11-20
+signal,norethindrone,edema,3,1573,0.067,1.635,1.635,2011-02-19
+signal,olanzapine,night terrors,3,1588,0.432,1.635,1.635,2012-09-08
+signal,olanzapine,psychosis,3,1588,0.39,1.635,1.635,2018-10-05
+signal,olanzapine,withdrawal symptoms,3,1588,0.161,1.635,1.635,2011-02-01
+signal,olmesartan,bowel movement frequency,3,707,0.002,1.635,1.635,2008-03-21
+signal,olmesartan,cough,3,707,0.156,1.635,1.635,2013-02-19
+signal,omalizumab,hives,3,239,0.0,1.635,1.635,2016-10-05
+signal,omalizumab,mobility,3,239,0.381,1.635,1.532,2013-01-08
+signal,orlistat,bloating,3,388,0.01,1.635,1.635,2016-11-07
+signal,orlistat,body weight,3,388,0.255,1.635,1.635,2008-03-18
+signal,oxybate,movement problems,3,128,0.0,1.635,1.635,2011-06-30
+signal,pantoprazole,bloating,3,489,0.038,1.635,1.635,2008-12-09
+signal,paroxetine,euphoria,3,3058,0.414,1.635,1.635,2011-08-25
+signal,passion flower,anxiety,3,7,0.022,1.635,1.635,2016-05-14
+signal,pitolisant,cognitive function,3,20,0.182,1.635,1.635,2021-03-12
+signal,prasterone,sex drive,3,92,0.133,1.635,1.635,2018-06-21
+signal,prochlorperazine,nausea,3,455,0.204,1.635,1.635,2017-09-15
+signal,prochlorperazine,vertigo,3,455,0.019,1.635,1.635,2019-07-16
+signal,progesterone,cognitive function,3,73,0.174,1.635,1.635,2009-03-04
+signal,promethazine,allergic reaction,3,385,0.321,1.635,1.635,2008-12-24
+signal,promethazine,motion sickness,3,385,0.0,1.635,1.635,2010-12-22
+signal,promethazine,nausea,3,385,0.305,1.635,1.635,2016-01-26
+signal,promethazine,stomach pain,3,385,0.15,1.635,1.635,2008-03-20
+signal,pseudoephedrine / triprolidine,sleep quality,3,19,0.38,1.635,1.004,2009-10-20
+signal,rifaximin,acid reflux,3,156,0.002,1.635,1.635,2016-03-29
+signal,rifaximin,bloating,3,156,0.015,1.635,1.635,2009-09-23
+signal,risperidone,delusions,3,1364,0.105,1.635,1.635,2013-07-18
+signal,rivastigmine,energy level,3,39,0.453,1.635,1.356,2016-02-02
+signal,sertraline,grief,3,7207,0.002,1.635,1.635,2007-12-04
+signal,sertraline,other: racing thoughts,3,7207,0.381,1.635,1.635,2012-04-13
+signal,sertraline,other: work functioning,3,7207,0.002,1.635,1.635,2007-10-25
+signal,silodosin,sleep duration,3,114,0.303,1.635,1.635,2013-03-24
+signal,sitagliptin,cognitive function,3,539,0.497,1.635,1.635,2007-10-17
+signal,spironolactone,bloating,3,1119,0.277,1.635,1.635,2009-03-18
+signal,suvorexant,alertness,3,495,0.229,1.635,1.635,2015-03-22
+signal,tadalafil,energy level,3,748,0.481,1.635,0.821,2014-12-15
+signal,tadalafil,other: penis size,3,748,0.0,1.635,1.635,2014-07-30
+signal,tadalafil,sleep duration,3,748,0.492,1.635,0.804,2015-01-08
+signal,tamsulosin,urinary retention,3,540,0.005,1.635,1.635,2016-01-23
+signal,tazarotene,skin scarring,3,68,0.301,1.635,1.635,2016-11-02
+signal,tazarotene,wrinkles,3,68,0.185,1.635,1.635,2016-09-16
+signal,tegaserod,body weight,3,38,0.222,1.635,1.635,2009-04-28
+signal,testosterone,orgasm,3,538,0.134,1.635,1.635,2011-04-14
+signal,theanine,alertness,3,122,0.003,1.635,1.635,2020-07-17
+signal,tofacitinib,hair growth or loss,3,156,0.003,1.635,1.635,2015-10-12
+signal,topiramate,vision changes,3,1312,0.252,1.635,1.635,2013-05-03
+signal,tramadol,alcohol craving,3,1803,0.488,1.635,0.924,2011-12-21
+signal,tramadol,stomach pain,3,1803,0.185,1.635,1.635,2009-09-30
+signal,turmeric extract,pain,3,21,0.023,1.635,1.635,2012-10-05
+signal,ubidecarenone,headache,3,41,0.01,1.635,1.635,2008-12-21
+signal,ustekinumab,arthritis,3,243,0.471,1.635,1.635,2015-08-09
+signal,valerian root extract,sleep quality,3,24,0.208,1.635,1.635,2018-10-21
+signal,valsartan,blood pressure,3,875,0.465,1.635,1.635,2009-10-18
+signal,varenicline,smoking behavior,3,1713,0.012,1.635,1.635,2008-05-11
+signal,varenicline,smoking craving,3,1713,0.002,1.635,1.635,2008-11-23
+signal,vilazodone,drowsiness,3,953,0.268,1.635,1.635,2011-11-10
+signal,vitamin b12,body weight,3,29,0.452,1.635,0.946,2010-07-21
+signal,guaifenesin,muscle stiffness,3,295,0.5,1.634,1.525,2016-11-03
+signal,metformin / sitagliptin,energy level,9,260,2.873,1.634,2.156,2008-06-17
+signal,clonidine,anxiety,27,1240,11.68,1.632,1.581,2008-04-01
+signal,methotrexate,joint pain,3,323,0.501,1.632,1.635,2008-06-20
+signal,gabapentin,social behavior,22,2552,9.146,1.629,0.968,2013-09-20
+signal,atomoxetine,obsessive-compulsive symptoms,4,603,0.841,1.626,1.387,2013-03-25
+signal,lorazepam,seizures,4,2355,0.841,1.625,1.892,2007-09-29
+signal,drospirenone,bloating,4,306,0.842,1.623,1.227,2020-11-11
+signal,ethinyl estradiol / norgestrel,menstrual cycle,20,344,8.168,1.623,1.209,2009-07-26
+signal,lurasidone,body weight,53,1298,25.719,1.618,1.406,2011-06-18
+signal,nebivolol,dyspnea,3,1073,0.506,1.617,0.904,2008-12-11
+signal,trazodone,mood,27,1404,11.79,1.616,1.089,2009-08-20
+signal,bupropion,erection,4,6038,0.846,1.615,0.881,2008-10-23
+signal,norethindrone,vaginal discharge,3,1573,0.507,1.613,1.635,2020-10-16
+signal,quetiapine,anxiety,196,4715,107.77,1.61,1.062,2007-09-18
+signal,black cohosh extract,mood,4,41,0.851,1.606,1.46,2011-10-03
+signal,drospirenone / ethinyl estradiol,menstrual cramps,182,2824,100.043,1.603,0.789,2008-04-02
+signal,amoxicillin / clavulanate,sinus infection,3,896,0.51,1.602,1.635,2015-06-09
+signal,ethinyl estradiol / norethindrone,menstrual bleeding,1181,7346,702.395,1.602,1.134,2008-11-10
+signal,lamotrigine,alcohol use,8,1690,2.485,1.602,1.76,2014-09-24
+signal,pregabalin,fibromyalgia symptoms,11,1597,3.855,1.6,1.601,2008-08-24
+signal,hydroxyzine,night terrors,3,2437,0.512,1.596,1.635,2015-10-30
+signal,aripiprazole,energy level,104,3189,55.193,1.591,1.899,2008-04-28
+signal,lorcaserin,blood pressure,14,901,5.322,1.59,1.213,2013-08-02
+signal,fluoxetine / olanzapine,sleep quality,10,77,3.414,1.589,1.677,2009-03-25
+signal,alprazolam,anxiety,45,4225,21.795,1.586,1.829,2007-10-23
+signal,methadone,mood,9,607,2.96,1.586,0.978,2009-01-21
+signal,tizanidine,sleep duration,7,370,2.073,1.585,0.857,2013-10-15
+signal,gabapentin,attention,19,2552,7.854,1.584,0.942,2012-03-14
+signal,montelukast,sleep quality,12,560,4.372,1.584,0.945,2011-03-31
+signal,lamotrigine,crying,7,1690,2.075,1.583,1.74,2015-05-06
+signal,desvenlafaxine,body weight,46,1350,22.412,1.581,1.267,2008-07-24
+signal,temazepam,sleep quality,4,406,0.866,1.578,2.03,2011-03-07
+signal,lurasidone,energy level,43,1298,20.811,1.577,1.37,2011-08-04
+signal,duloxetine,mood,152,6678,84.009,1.575,1.471,2007-10-04
+signal,valproate,stress,4,642,0.868,1.574,1.989,2014-08-01
+signal,armodafinil,social behavior,8,392,2.536,1.57,1.409,2010-08-01
+signal,clonidine,aggression,3,1240,0.521,1.569,1.519,2011-04-04
+signal,ethinyl estradiol / norethindrone,breast enlargement,203,7346,115.354,1.562,1.106,2009-08-30
+signal,phendimetrazine,motivation,3,108,0.524,1.56,1.046,2012-01-07
+signal,fluticasone / vilanterol,energy level,5,226,1.27,1.551,1.596,2016-08-02
+signal,sertraline,anger,81,7207,43.11,1.549,1.656,2007-10-06
+signal,estradiol / ethinyl estradiol / levonorgestrel,menstrual cramps,385,4677,228.763,1.544,1.142,2008-11-13
+signal,lisdexamfetamine,energy level,46,1022,23.008,1.54,1.116,2009-03-25
+signal,ethinyl estradiol / levonorgestrel,headache,4,150,0.889,1.538,1.504,2013-03-28
+signal,desvenlafaxine,sexual function,8,1350,2.589,1.537,1.232,2008-07-15
+signal,oxazepam,anxiety,3,126,0.532,1.537,1.635,2013-06-21
+signal,canagliflozin,body weight,139,474,78.351,1.534,1.144,2013-05-31
+signal,propranolol,panic attacks,9,1891,3.062,1.533,1.764,2007-09-25
+signal,asenapine,energy level,22,605,9.723,1.532,0.895,2010-01-14
+signal,ixekizumab,joint pain,3,196,0.536,1.525,1.486,2018-09-08
+signal,asenapine,mood,11,605,4.052,1.523,0.889,2010-12-26
+signal,diclofenac / misoprostol,pain,3,51,0.537,1.522,1.385,2011-03-27
+signal,ethinyl estradiol / norgestimate,menstrual cramps,410,5449,248.329,1.519,0.983,2008-05-16
+signal,dupilumab,sleep quality,5,389,1.298,1.518,0.964,2017-07-07
+signal,metformin,bowel movement frequency,5,2233,1.298,1.518,1.661,2009-10-25
+signal,gabapentin,sweating,5,2552,1.298,1.517,0.902,2008-12-28
+signal,cariprazine,addiction or dependence,3,557,0.54,1.516,1.635,2016-07-11
+signal,alprazolam,mobility,11,4225,4.073,1.515,1.747,2007-10-14
+signal,bupropion / naltrexone,sex drive,4,1807,0.902,1.515,1.173,2015-08-10
+signal,drospirenone / ethinyl estradiol,menstrual cycle,86,2824,47.184,1.512,0.744,2008-12-13
+signal,dextroamphetamine,attention,5,276,1.304,1.511,1.646,2013-07-15
+signal,semaglutide,bowel movement frequency,4,2105,0.906,1.508,0.863,2021-05-20
+signal,metformin,energy level,51,2233,26.44,1.507,1.649,2008-01-24
+signal,levonorgestrel (iud),dyspareunia,8,5126,2.646,1.504,2.329,2013-03-05
+signal,amitriptyline,nausea,3,3072,0.544,1.503,0.828,2017-12-21
+signal,metoprolol,headache,29,2424,13.813,1.502,1.555,2007-12-06
+control_effect,5-hydroxytryptophan,motion sickness,0,,,,,
+control_effect,5-hydroxytryptophan,stress,0,,,,,
+control_effect,acamprosate,diarrhea,0,,,,,
+control_effect,acamprosate,rash,0,,,,,
+control_effect,acamprosate,spinal injuries,0,,,,,
+control_effect,acetaminophen / aspirin / caffeine,oral thrush,0,,,,,
+control_effect,acetaminophen / butalbital / caffeine,jaw clenching,0,,,,,
+control_effect,acetaminophen / butalbital / caffeine,serotonin syndrome,0,,,,,
+control_effect,acetaminophen / diphenhydramine,dyspareunia,0,,,,,
+control_effect,acetaminophen / propoxyphene,numbness,0,,,,,
+control_effect,adalimumab,hallucinations,0,,,,,
+control_effect,adalimumab,nasal dryness,0,,,,,
+control_effect,adapalene,difficulty swallowing,0,,,,,
+control_effect,adapalene,dizziness,0,,,,,
+control_effect,adapalene,inflammation,0,,,,,
+control_effect,alfuzosin,bronchitis,0,,,,,
+control_effect,alprazolam,insertion pain,0,,,,,
+control_effect,alprazolam,neck pain,0,,,,,
+control_effect,alprazolam,skin irritation,0,,,,,
+control_effect,alprazolam,sputum production,0,,,,,
+control_effect,alprazolam,thyroid problems,0,,,,,
+control_effect,alprazolam,vertigo,0,,,,,
+control_effect,alprazolam,yawning,0,,,,,
+control_effect,aluminum chloride,restlessness,0,,,,,
+control_effect,amantadine,sleep quality,0,,,,,
+control_effect,amitriptyline,acid reflux,0,,,,,
+control_effect,amitriptyline,akathisia,0,,,,,
+control_effect,amitriptyline,angioedema,0,,,,,
+control_effect,amitriptyline,apathy,0,,,,,
+control_effect,amitriptyline,edema,0,,,,,
+control_effect,amitriptyline,eye pressure,0,,,,,
+control_effect,amitriptyline,falls,0,,,,,
+control_effect,amitriptyline,flatulence,0,,,,,
+control_effect,amitriptyline,heat intolerance,0,,,,,
+control_effect,amitriptyline,irritability,0,,,,,
+control_effect,amitriptyline,menstrual bleeding,0,,,,,
+control_effect,amitriptyline,psoriasis,0,,,,,
+control_effect,amitriptyline,psychosis,0,,,,,
+control_effect,amitriptyline,rash,0,,,,,
+control_effect,amitriptyline,respiratory infection,0,,,,,
+control_effect,amitriptyline,seizures,0,,,,,
+control_effect,amitriptyline,thirst,0,,,,,
+control_effect,amlodipine,balance and coordination,0,,,,,
+control_effect,amlodipine,pain,0,,,,,
+control_effect,amlodipine,vision changes,0,,,,,
+control_effect,amlodipine / atorvastatin,orthostatic dizziness,0,,,,,
+control_effect,amlodipine / olmesartan,brain zaps,0,,,,,
+control_effect,amlodipine / olmesartan,burning skin,0,,,,,
+control_effect,amoxicillin / clarithromycin / lansoprazole,hearing problems,0,,,,,
+control_effect,amoxicillin / clavulanate,allergic reaction,0,,,,,
+control_effect,amphetamine / dextroamphetamine,back pain,0,,,,,
+control_effect,amphetamine / dextroamphetamine,body odor,0,,,,,
+control_effect,amphetamine / dextroamphetamine,cough,0,,,,,
+control_effect,amphetamine / dextroamphetamine,low potassium,0,,,,,
+control_effect,amphetamine / dextroamphetamine,menstrual bleeding,0,,,,,
+control_effect,amphetamine / dextroamphetamine,psychosis,0,,,,,
+control_effect,amphetamine / dextroamphetamine,schizophrenia,0,,,,,
+control_effect,apremilast,hives,0,,,,,
+control_effect,aripiprazole,bad breath,0,,,,,
+control_effect,aripiprazole,balance and coordination,0,,,,,
+control_effect,aripiprazole,compulsive behavior,0,,,,,
+control_effect,aripiprazole,restlessness,0,,,,,
+control_effect,aripiprazole,upset stomach,0,,,,,
+control_effect,armodafinil,parkinsonism,0,,,,,
+control_effect,armodafinil,sore throat,0,,,,,
+control_effect,asenapine,menstrual cycle,0,,,,,
+control_effect,asenapine,nasal congestion,0,,,,,
+control_effect,asenapine,nerve pain,0,,,,,
+control_effect,asenapine,rosacea,0,,,,,
+control_effect,asenapine,sneezing,0,,,,,
+control_effect,asenapine,stool color,0,,,,,
+control_effect,atarax,chapped lips,0,,,,,
+control_effect,atenolol,compulsive behavior,0,,,,,
+control_effect,atenolol,difficulty swallowing,0,,,,,
+control_effect,atenolol,flatulence,0,,,,,
+control_effect,atenolol,fractures,0,,,,,
+control_effect,atenolol,sexual function,0,,,,,
+control_effect,atenolol,sputum production,0,,,,,
+control_effect,atenolol,stroke,0,,,,,
+control_effect,atenolol,weakness,0,,,,,
+control_effect,atomoxetine,confusion,0,,,,,
+control_effect,atomoxetine,cyst size,0,,,,,
+control_effect,atomoxetine,dry eyes,0,,,,,
+control_effect,atomoxetine,urinary incontinence,0,,,,,
+control_effect,atomoxetine,wrinkles,0,,,,,
+control_effect,atropine / hyoscyamine / phenobarbital / scopolamine,neck pain,0,,,,,
+control_effect,azelastine,smoking craving,0,,,,,
+control_effect,azelastine,urinary frequency,0,,,,,
+control_effect,azelastine / fluticasone,anger,0,,,,,
+control_effect,baclofen,flu-like symptoms,0,,,,,
+control_effect,baclofen,smoking behavior,0,,,,,
+control_effect,baclofen,syncope,0,,,,,
+control_effect,benztropine,behavior,0,,,,,
+control_effect,biotin,edema,0,,,,,
+control_effect,biotin,rash,0,,,,,
+control_effect,bisacodyl,muscle twitching,0,,,,,
+control_effect,black cohosh extract,tremor,0,,,,,
+control_effect,brexpiprazole,numbness,0,,,,,
+control_effect,brimonidine,skin infection,0,,,,,
+control_effect,buprenorphine,heat intolerance,0,,,,,
+control_effect,buprenorphine,muscle cramps,0,,,,,
+control_effect,buprenorphine,self-esteem,0,,,,,
+control_effect,buprenorphine / naloxone,dizziness,0,,,,,
+control_effect,buprenorphine / naloxone,insomnia,0,,,,,
+control_effect,bupropion,acid reflux,0,,,,,
+control_effect,bupropion,bad breath,0,,,,,
+control_effect,bupropion,bruising,0,,,,,
+control_effect,bupropion,chest pain,0,,,,,
+control_effect,bupropion,chest tightness,0,,,,,
+control_effect,bupropion,cholesterol,0,,,,,
+control_effect,bupropion,cyst size,0,,,,,
+control_effect,bupropion,dyspareunia,0,,,,,
+control_effect,bupropion,injection site reactions,0,,,,,
+control_effect,bupropion,leg cramps,0,,,,,
+control_effect,bupropion,malaise,0,,,,,
+control_effect,bupropion,motion sickness,0,,,,,
+control_effect,bupropion,movement problems,0,,,,,
+control_effect,bupropion,nosebleed,0,,,,,
+control_effect,bupropion,oral thrush,0,,,,,
+control_effect,bupropion,psychosis,0,,,,,
+control_effect,bupropion,rash,0,,,,,
+control_effect,bupropion,restless legs,0,,,,,
+control_effect,bupropion,skin scarring,0,,,,,
+control_effect,bupropion,staph infection,0,,,,,
+control_effect,bupropion,tingling,0,,,,,
+control_effect,bupropion,urinary incontinence,0,,,,,
+control_effect,bupropion,urinary retention,0,,,,,
+control_effect,bupropion / naltrexone,alcohol intolerance,0,,,,,
+control_effect,bupropion / naltrexone,appetite,0,,,,,
+control_effect,bupropion / naltrexone,bloating,0,,,,,
+control_effect,bupropion / naltrexone,body weight,0,,,,,
+control_effect,bupropion / naltrexone,burning skin,0,,,,,
+control_effect,bupropion / naltrexone,dermatitis,0,,,,,
+control_effect,bupropion / naltrexone,dyspnea,0,,,,,
+control_effect,bupropion / naltrexone,kidney function,0,,,,,
+control_effect,bupropion / naltrexone,kidney stones,0,,,,,
+control_effect,bupropion / naltrexone,malaise,0,,,,,
+control_effect,bupropion / naltrexone,neuropathy,0,,,,,
+control_effect,bupropion / naltrexone,rosacea,0,,,,,
+control_effect,bupropion / naltrexone,skin infection,0,,,,,
+control_effect,bupropion / naltrexone,wheezing,0,,,,,
+control_effect,buspirone,abdominal pain,0,,,,,
+control_effect,buspirone,dermatitis,0,,,,,
+control_effect,buspirone,stomach pain,0,,,,,
+control_effect,buspirone,tingling,0,,,,,
+control_effect,buspirone,tooth discoloration,0,,,,,
+control_effect,butorphanol,word-finding ability,0,,,,,
+control_effect,cabergoline,drug craving,0,,,,,
+control_effect,cabergoline,edema,0,,,,,
+control_effect,cabergoline,sleep duration,0,,,,,
+control_effect,cabergoline,social behavior,0,,,,,
+control_effect,canagliflozin,blood glucose,0,,,,,
+control_effect,canagliflozin,muscle spasms,0,,,,,
+control_effect,canagliflozin,smoking behavior,0,,,,,
+control_effect,canagliflozin,weakness,0,,,,,
+control_effect,cariprazine,enlarged heart,0,,,,,
+control_effect,carisoprodol,kidney damage,0,,,,,
+control_effect,cefuroxime,muscle stiffness,0,,,,,
+control_effect,cetirizine,numbness,0,,,,,
+control_effect,chlorhexidine,skin irritation,0,,,,,
+control_effect,chlorpheniramine / hydrocodone,flatulence,0,,,,,
+control_effect,citalopram,cyst size,0,,,,,
+control_effect,citalopram,edema,0,,,,,
+control_effect,clomipramine,hot flashes,0,,,,,
+control_effect,clonazepam,akathisia,0,,,,,
+control_effect,clonazepam,asthma,0,,,,,
+control_effect,clonazepam,inflammation,0,,,,,
+control_effect,clonazepam,nosebleed,0,,,,,
+control_effect,clonazepam,personality,0,,,,,
+control_effect,clonazepam,wrinkles,0,,,,,
+control_effect,clonidine,anger,0,,,,,
+control_effect,clonidine,bronchitis,0,,,,,
+control_effect,clonidine,chest tightness,0,,,,,
+control_effect,clonidine,coma,0,,,,,
+control_effect,clonidine,diarrhea,0,,,,,
+control_effect,clonidine,dissociation,0,,,,,
+control_effect,clonidine,dizziness,0,,,,,
+control_effect,clonidine,enlarged heart,0,,,,,
+control_effect,clonidine,hangover symptoms,0,,,,,
+control_effect,clonidine,kidney damage,0,,,,,
+control_effect,clonidine,sexual function,0,,,,,
+control_effect,clonidine,urinary frequency,0,,,,,
+control_effect,cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,bipolar symptoms,0,,,,,
+control_effect,copper,muscle pain,0,,,,,
+control_effect,cyclobenzaprine,bowel urgency,0,,,,,
+control_effect,cyclobenzaprine,dyspnea,0,,,,,
+control_effect,cyclobenzaprine,menstrual cramps,0,,,,,
+control_effect,cyclobenzaprine,social behavior,0,,,,,
+control_effect,cyproheptadine,hallucinations,0,,,,,
+control_effect,cyproheptadine,nosebleed,0,,,,,
+control_effect,dabigatran,attention,0,,,,,
+control_effect,dabigatran,suicidality,0,,,,,
+control_effect,dalfampridine,alcohol craving,0,,,,,
+control_effect,desogestrel / ethinyl estradiol,akathisia,0,,,,,
+control_effect,desogestrel / ethinyl estradiol,bowel movement frequency,0,,,,,
+control_effect,desogestrel / ethinyl estradiol,leg cramps,0,,,,,
+control_effect,desogestrel / ethinyl estradiol,panic attacks,0,,,,,
+control_effect,desogestrel / ethinyl estradiol,shivering,0,,,,,
+control_effect,desvenlafaxine,dyspnea,0,,,,,
+control_effect,desvenlafaxine,eye pressure,0,,,,,
+control_effect,desvenlafaxine,hives,0,,,,,
+control_effect,desvenlafaxine,involuntary movements,0,,,,,
+control_effect,desvenlafaxine,mitral valve prolapse,0,,,,,
+control_effect,desvenlafaxine,stool consistency,0,,,,,
+control_effect,desvenlafaxine,syncope,0,,,,,
+control_effect,desvenlafaxine,tinnitus,0,,,,,
+control_effect,desvenlafaxine,vertigo,0,,,,,
+control_effect,dextroamphetamine,wheezing,0,,,,,
+control_effect,diazepam,aggression,0,,,,,
+control_effect,diazepam,constipation,0,,,,,
+control_effect,diazepam,edema,0,,,,,
+control_effect,diazepam,erection,0,,,,,
+control_effect,diazepam,heat intolerance,0,,,,,
+control_effect,diazepam,inflammation,0,,,,,
+control_effect,diazepam,jaw pain,0,,,,,
+control_effect,diazepam,low potassium,0,,,,,
+control_effect,diazepam,skin discoloration,0,,,,,
+control_effect,diazepam,stomach pain,0,,,,,
+control_effect,diazepam,stroke,0,,,,,
+control_effect,diazepam,syncope,0,,,,,
+control_effect,diazepam,triglycerides,0,,,,,
+control_effect,diazepam,urinary retention,0,,,,,
+control_effect,diclofenac,premenstrual mood symptoms,0,,,,,
+control_effect,diclofenac,rash,0,,,,,
+control_effect,diclofenac,thirst,0,,,,,
+control_effect,diclofenac / misoprostol,hypoglycemia,0,,,,,
+control_effect,dienogest / estradiol,mobility,0,,,,,
+control_effect,dienogest / estradiol,word-finding ability,0,,,,,
+control_effect,diltiazem,serotonin syndrome,0,,,,,
+control_effect,dimenhydrinate,blood pressure,0,,,,,
+control_effect,diphenhydramine / naproxen,tooth discoloration,0,,,,,
+control_effect,doxazosin,hives,0,,,,,
+control_effect,doxepin,abdominal pain,0,,,,,
+control_effect,doxepin,blood glucose,0,,,,,
+control_effect,doxepin,joint swelling,0,,,,,
+control_effect,doxycycline,bipolar symptoms,0,,,,,
+control_effect,doxycycline,cough,0,,,,,
+control_effect,doxylamine,emotional blunting,0,,,,,
+control_effect,dronabinol,irritable bowel symptoms,0,,,,,
+control_effect,dronabinol,nerve pain,0,,,,,
+control_effect,dronabinol,skin discoloration,0,,,,,
+control_effect,drospirenone,anger,0,,,,,
+control_effect,drospirenone,apathy,0,,,,,
+control_effect,drospirenone,bowel movement frequency,0,,,,,
+control_effect,drospirenone,cold intolerance,0,,,,,
+control_effect,drospirenone,muscle twitching,0,,,,,
+control_effect,drospirenone,neuropathy,0,,,,,
+control_effect,drospirenone,sneezing,0,,,,,
+control_effect,drospirenone,thyroid problems,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,abdominal pain,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,agoraphobia,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,alertness,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,apathy,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,asthma,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,back pain,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,dental caries,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,dry mouth,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,emotional blunting,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,mobility,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,muscle spasms,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,nasal congestion,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,nerve pain,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,rash,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,restlessness,0,,,,,
+control_effect,drospirenone / ethinyl estradiol,vaginal irritation,0,,,,,
+control_effect,drospirenone / ethinyl estradiol / levomefolate,a1c,0,,,,,
+control_effect,drospirenone / ethinyl estradiol / levomefolate,compulsive behavior,0,,,,,
+control_effect,drospirenone / ethinyl estradiol / levomefolate,headache,0,,,,,
+control_effect,dulaglutide,rhinorrhea,0,,,,,
+control_effect,duloxetine,brain zaps,0,,,,,
+control_effect,duloxetine,burning skin,0,,,,,
+control_effect,duloxetine,dehydration,0,,,,,
+control_effect,duloxetine,diarrhea,0,,,,,
+control_effect,duloxetine,falls,0,,,,,
+control_effect,duloxetine,flu-like symptoms,0,,,,,
+control_effect,duloxetine,hypoglycemia,0,,,,,
+control_effect,duloxetine,kidney stones,0,,,,,
+control_effect,duloxetine,menstrual bleeding,0,,,,,
+control_effect,duloxetine,nasal dryness,0,,,,,
+control_effect,duloxetine,sleep apnea,0,,,,,
+control_effect,duloxetine,sputum production,0,,,,,
+control_effect,duloxetine,stool color,0,,,,,
+control_effect,duloxetine,unintended pregnancy,0,,,,,
+control_effect,dupilumab,cold extremities,0,,,,,
+control_effect,dupilumab,rhinorrhea,0,,,,,
+control_effect,dupilumab,stomach pain,0,,,,,
+control_effect,dupilumab,tingling,0,,,,,
+control_effect,dupilumab,word-finding ability,0,,,,,
+control_effect,dutasteride,drowsiness,0,,,,,
+control_effect,dutasteride,parkinsonism,0,,,,,
+control_effect,eicosapentaenoate,balance and coordination,0,,,,,
+control_effect,eicosapentaenoate,body odor,0,,,,,
+control_effect,eicosapentaenoate,impulse control,0,,,,,
+control_effect,eicosapentaenoate,toenail fungus,0,,,,,
+control_effect,empagliflozin,body odor,0,,,,,
+control_effect,empagliflozin,shivering,0,,,,,
+control_effect,empagliflozin,sore throat,0,,,,,
+control_effect,endep,tooth discoloration,0,,,,,
+control_effect,epinephrine,word-finding ability,0,,,,,
+control_effect,ergocalciferol,joint pain,0,,,,,
+control_effect,ergocalciferol,mitral valve prolapse,0,,,,,
+control_effect,ergocalciferol,nighttime eating,0,,,,,
+control_effect,ergocalciferol,sore throat,0,,,,,
+control_effect,ergocalciferol,stomach pain,0,,,,,
+control_effect,escitalopram,anhedonia,0,,,,,
+control_effect,escitalopram,bowel urgency,0,,,,,
+control_effect,escitalopram,cyst size,0,,,,,
+control_effect,escitalopram,inflammation,0,,,,,
+control_effect,escitalopram,respiratory infection,0,,,,,
+control_effect,escitalopram,syncope,0,,,,,
+control_effect,escitalopram,tic disorders,0,,,,,
+control_effect,estradiol,arthritis,0,,,,,
+control_effect,estradiol,asthma,0,,,,,
+control_effect,estradiol,back pain,0,,,,,
+control_effect,estradiol,bleeding,0,,,,,
+control_effect,estradiol,confusion,0,,,,,
+control_effect,estradiol,fibromyalgia symptoms,0,,,,,
+control_effect,estradiol,liver problems,0,,,,,
+control_effect,estradiol,taste disturbance,0,,,,,
+control_effect,estradiol,vision changes,0,,,,,
+control_effect,estradiol / ethinyl estradiol / levonorgestrel,impulse control,0,,,,,
+control_effect,estradiol / ethinyl estradiol / levonorgestrel,skin scarring,0,,,,,
+control_effect,estradiol / ethinyl estradiol / levonorgestrel,tingling,0,,,,,
+control_effect,"estrogens, conjugated (usp)",cognitive function,0,,,,,
+control_effect,"estrogens, conjugated (usp)",menstrual cramps,0,,,,,
+control_effect,"estrogens, esterified (usp) / methyltestosterone",dermatitis,0,,,,,
+control_effect,"estrogens, esterified (usp) / methyltestosterone",respiratory infection,0,,,,,
+control_effect,ethinyl estradiol / ethynodiol,urinary retention,0,,,,,
+control_effect,ethinyl estradiol / levonorgestrel,attention,0,,,,,
+control_effect,ethinyl estradiol / norelgestromin,brain zaps,0,,,,,
+control_effect,ethinyl estradiol / norelgestromin,low ejection fraction,0,,,,,
+control_effect,ethinyl estradiol / norethindrone,acid reflux,0,,,,,
+control_effect,ethinyl estradiol / norethindrone,akathisia,0,,,,,
+control_effect,ethinyl estradiol / norethindrone,brain zaps,0,,,,,
+control_effect,ethinyl estradiol / norethindrone,dyspareunia,0,,,,,
+control_effect,ethinyl estradiol / norethindrone,low potassium,0,,,,,
+control_effect,ethinyl estradiol / norethindrone,nasal dryness,0,,,,,
+control_effect,ethinyl estradiol / norethindrone,restlessness,0,,,,,
+control_effect,ethinyl estradiol / norgestimate,angioedema,0,,,,,
+control_effect,ethinyl estradiol / norgestimate,belching,0,,,,,
+control_effect,ethinyl estradiol / norgestimate,skin discoloration,0,,,,,
+control_effect,ethinyl estradiol / norgestimate,sneezing,0,,,,,
+control_effect,ethinyl estradiol / norgestimate,vomiting,0,,,,,
+control_effect,ethinyl estradiol / norgestrel,dry eyes,0,,,,,
+control_effect,exenatide,alcohol craving,0,,,,,
+control_effect,exenatide,anxiety,0,,,,,
+control_effect,exenatide,headache,0,,,,,
+control_effect,fexofenadine,edema,0,,,,,
+control_effect,finasteride,a1c,0,,,,,
+control_effect,flecainide,skin scarring,0,,,,,
+control_effect,flibanserin,toenail fungus,0,,,,,
+control_effect,flibanserin,urinary retention,0,,,,,
+control_effect,fluorouracil,blood pressure,0,,,,,
+control_effect,fluoxetine,bruising,0,,,,,
+control_effect,fluoxetine,flatulence,0,,,,,
+control_effect,fluoxetine,paranoia,0,,,,,
+control_effect,fluoxetine,urinary frequency,0,,,,,
+control_effect,fluoxetine,vaginal discharge,0,,,,,
+control_effect,fluoxetine,weakness,0,,,,,
+control_effect,fluoxetine / olanzapine,impulse control,0,,,,,
+control_effect,fluticasone,hangover symptoms,0,,,,,
+control_effect,fluticasone / vilanterol,dry mouth,0,,,,,
+control_effect,fluvoxamine,urinary incontinence,0,,,,,
+control_effect,gabapentin,bipolar symptoms,0,,,,,
+control_effect,gabapentin,bleeding,0,,,,,
+control_effect,gabapentin,chapped lips,0,,,,,
+control_effect,gabapentin,dehydration,0,,,,,
+control_effect,gabapentin,diarrhea,0,,,,,
+control_effect,gabapentin,eye irritation,0,,,,,
+control_effect,gabapentin,flatulence,0,,,,,
+control_effect,gabapentin,grief,0,,,,,
+control_effect,gabapentin,hallucinations,0,,,,,
+control_effect,gabapentin,hangover symptoms,0,,,,,
+control_effect,gabapentin,heart palpitations,0,,,,,
+control_effect,gabapentin,impulse control,0,,,,,
+control_effect,gabapentin,low ejection fraction,0,,,,,
+control_effect,gabapentin,mitral valve prolapse,0,,,,,
+control_effect,gabapentin,numbness,0,,,,,
+control_effect,gabapentin,vertigo,0,,,,,
+control_effect,gabapentin,wound infection,0,,,,,
+control_effect,glecaprevir / pibrentasvir,skin irritation,0,,,,,
+control_effect,guaifenesin,acne,0,,,,,
+control_effect,guaifenesin,falls,0,,,,,
+control_effect,guaifenesin,inflammation,0,,,,,
+control_effect,guaifenesin,insertion pain,0,,,,,
+control_effect,guaifenesin,thyroid problems,0,,,,,
+control_effect,guaifenesin,vertigo,0,,,,,
+control_effect,guanfacine,alcohol craving,0,,,,,
+control_effect,guanfacine,cold intolerance,0,,,,,
+control_effect,guanfacine,constipation,0,,,,,
+control_effect,guanfacine,grief,0,,,,,
+control_effect,guanfacine,schizophrenia,0,,,,,
+control_effect,guanfacine,wheezing,0,,,,,
+control_effect,guselkumab,vision changes,0,,,,,
+control_effect,homatropine / hydrocodone,premenstrual mood symptoms,0,,,,,
+control_effect,hydrochlorothiazide,blood lipids,0,,,,,
+control_effect,hydrochlorothiazide,brain zaps,0,,,,,
+control_effect,hydrochlorothiazide,psoriasis,0,,,,,
+control_effect,hydrochlorothiazide,urinary tract infection,0,,,,,
+control_effect,hydrochlorothiazide / losartan,agoraphobia,0,,,,,
+control_effect,hydrochlorothiazide / telmisartan,wound infection,0,,,,,
+control_effect,hydrochlorothiazide / triamterene,dyspareunia,0,,,,,
+control_effect,hydrochlorothiazide / valsartan,sexual function,0,,,,,
+control_effect,hydroxychloroquine,bowel urgency,0,,,,,
+control_effect,hydroxychloroquine,tremor,0,,,,,
+control_effect,hydroxychloroquine,wheezing,0,,,,,
+control_effect,hydroxyzine,agitation,0,,,,,
+control_effect,hydroxyzine,alcohol craving,0,,,,,
+control_effect,hydroxyzine,cold intolerance,0,,,,,
+control_effect,hydroxyzine,edema,0,,,,,
+control_effect,hydroxyzine,low ejection fraction,0,,,,,
+control_effect,hydroxyzine,muscle stiffness,0,,,,,
+control_effect,hydroxyzine,rosacea,0,,,,,
+control_effect,hydroxyzine,seizures,0,,,,,
+control_effect,hydroxyzine,tendon pain,0,,,,,
+control_effect,hydroxyzine,unintended pregnancy,0,,,,,
+control_effect,hytrin,hives,0,,,,,
+control_effect,ibuprofen,bleeding,0,,,,,
+control_effect,indomethacin,jaw clenching,0,,,,,
+control_effect,isotretinoin,erection,0,,,,,
+control_effect,isotretinoin,flatulence,0,,,,,
+control_effect,isotretinoin,impulse control,0,,,,,
+control_effect,isotretinoin,yeast infections,0,,,,,
+control_effect,ixekizumab,acne,0,,,,,
+control_effect,ketamine,grief,0,,,,,
+control_effect,ketoprofen,night terrors,0,,,,,
+control_effect,lamotrigine,a1c,0,,,,,
+control_effect,lamotrigine,delusions,0,,,,,
+control_effect,lamotrigine,motion sickness,0,,,,,
+control_effect,lamotrigine,orthostatic dizziness,0,,,,,
+control_effect,lamotrigine,schizophrenia,0,,,,,
+control_effect,lamotrigine,skin irritation,0,,,,,
+control_effect,lamotrigine,sneezing,0,,,,,
+control_effect,lamotrigine,tendon pain,0,,,,,
+control_effect,ledipasvir / sofosbuvir,cold intolerance,0,,,,,
+control_effect,ledipasvir / sofosbuvir,falls,0,,,,,
+control_effect,ledipasvir / sofosbuvir,suicidality,0,,,,,
+control_effect,leuprolide,blood lipids,0,,,,,
+control_effect,levetiracetam,anger,0,,,,,
+control_effect,levocetirizine,oral thrush,0,,,,,
+control_effect,levocetirizine,skin discoloration,0,,,,,
+control_effect,levomefolate,leg cramps,0,,,,,
+control_effect,levomilnacipran,heart failure,0,,,,,
+control_effect,levonorgestrel (iud),chapped lips,0,,,,,
+control_effect,levonorgestrel (iud),flushing,0,,,,,
+control_effect,levonorgestrel (iud),psoriasis,0,,,,,
+control_effect,levonorgestrel (iud),stool consistency,0,,,,,
+control_effect,levothyroxine,falls,0,,,,,
+control_effect,levothyroxine,injection site pain,0,,,,,
+control_effect,levothyroxine,muscle cramps,0,,,,,
+control_effect,levothyroxine,stress,0,,,,,
+control_effect,levothyroxine,tolerance,0,,,,,
+control_effect,levothyroxine,urinary frequency,0,,,,,
+control_effect,librium,paranoia,0,,,,,
+control_effect,lifitegrast,pain,0,,,,,
+control_effect,linaclotide,back pain,0,,,,,
+control_effect,linaclotide,low potassium,0,,,,,
+control_effect,liothyronine,cold intolerance,0,,,,,
+control_effect,liothyronine,itching,0,,,,,
+control_effect,liraglutide,arthritis,0,,,,,
+control_effect,liraglutide,heart palpitations,0,,,,,
+control_effect,liraglutide,insomnia,0,,,,,
+control_effect,liraglutide,motion sickness,0,,,,,
+control_effect,liraglutide,neck pain,0,,,,,
+control_effect,liraglutide,respiratory infection,0,,,,,
+control_effect,liraglutide,schizophrenia,0,,,,,
+control_effect,lisdexamfetamine,blood calcium,0,,,,,
+control_effect,lisdexamfetamine,inflammation,0,,,,,
+control_effect,lisdexamfetamine,smoking craving,0,,,,,
+control_effect,lisdexamfetamine,tingling,0,,,,,
+control_effect,lisdexamfetamine,tolerance,0,,,,,
+control_effect,lisdexamfetamine,wrinkles,0,,,,,
+control_effect,lisinopril,heart failure,0,,,,,
+control_effect,lisinopril,sleep duration,0,,,,,
+control_effect,lithium,eating behavior,0,,,,,
+control_effect,lithium,tremor,0,,,,,
+control_effect,lorazepam,memory,0,,,,,
+control_effect,lorazepam,ovarian cysts,0,,,,,
+control_effect,lorcaserin,bleeding,0,,,,,
+control_effect,lorcaserin,breast enlargement,0,,,,,
+control_effect,lorcaserin,chapped lips,0,,,,,
+control_effect,lorcaserin,crying,0,,,,,
+control_effect,lorcaserin,malaise,0,,,,,
+control_effect,lorcaserin,orgasm,0,,,,,
+control_effect,lorcaserin,skin scarring,0,,,,,
+control_effect,lorcaserin,weakness,0,,,,,
+control_effect,losartan,hangover symptoms,0,,,,,
+control_effect,losartan,seizures,0,,,,,
+control_effect,lumateperone,paranoia,0,,,,,
+control_effect,lurasidone,acne,0,,,,,
+control_effect,lurasidone,burning skin,0,,,,,
+control_effect,lurasidone,urinary retention,0,,,,,
+control_effect,medium chain triglycerides,eating behavior,0,,,,,
+control_effect,medroxyprogesterone,inflammation,0,,,,,
+control_effect,meloxicam,alcohol craving,0,,,,,
+control_effect,meloxicam,cholesterol,0,,,,,
+control_effect,metformin,body odor,0,,,,,
+control_effect,metformin,dissociation,0,,,,,
+control_effect,metformin,liver damage,0,,,,,
+control_effect,metformin,mobility,0,,,,,
+control_effect,metformin,nasal dryness,0,,,,,
+control_effect,metformin,rash,0,,,,,
+control_effect,metformin,tremor,0,,,,,
+control_effect,metformin / sitagliptin,mitral valve prolapse,0,,,,,
+control_effect,methadone,anxiety,0,,,,,
+control_effect,methadone,bowel movement frequency,0,,,,,
+control_effect,methadone,dermatitis,0,,,,,
+control_effect,methadone,dry mouth,0,,,,,
+control_effect,methadone,muscle twitching,0,,,,,
+control_effect,methadone,nerve pain,0,,,,,
+control_effect,methadone,premenstrual mood symptoms,0,,,,,
+control_effect,methadone,sputum production,0,,,,,
+control_effect,methadone,stroke,0,,,,,
+control_effect,methotrexate,flatulence,0,,,,,
+control_effect,methyl salicylate,burning skin,0,,,,,
+control_effect,methylphenidate,grief,0,,,,,
+control_effect,methylphenidate,jaw pain,0,,,,,
+control_effect,methylprednisolone,skin infection,0,,,,,
+control_effect,methylprednisolone,vaginal odor,0,,,,,
+control_effect,metoprolol,bleeding,0,,,,,
+control_effect,metoprolol,nerve pain,0,,,,,
+control_effect,metoprolol,parasomnias,0,,,,,
+control_effect,metoprolol,taste disturbance,0,,,,,
+control_effect,metoprolol,tumor size,0,,,,,
+control_effect,metoprolol,wheezing,0,,,,,
+control_effect,metronidazole,nerve pain,0,,,,,
+control_effect,metronidazole,self-esteem,0,,,,,
+control_effect,milnacipran,drug craving,0,,,,,
+control_effect,milnacipran,skin infection,0,,,,,
+control_effect,mirtazapine,alcohol intolerance,0,,,,,
+control_effect,mirtazapine,bipolar symptoms,0,,,,,
+control_effect,mirtazapine,breast enlargement,0,,,,,
+control_effect,mirtazapine,coma,0,,,,,
+control_effect,mirtazapine,dissociation,0,,,,,
+control_effect,mirtazapine,grief,0,,,,,
+control_effect,mirtazapine,hair growth or loss,0,,,,,
+control_effect,mirtazapine,involuntary movements,0,,,,,
+control_effect,mirtazapine,low ejection fraction,0,,,,,
+control_effect,mirtazapine,muscle stiffness,0,,,,,
+control_effect,modafinil,blood calcium,0,,,,,
+control_effect,modafinil,menstrual cycle,0,,,,,
+control_effect,montelukast,breast enlargement,0,,,,,
+control_effect,montelukast,cold sores,0,,,,,
+control_effect,montelukast,compulsive behavior,0,,,,,
+control_effect,montelukast,hot flashes,0,,,,,
+control_effect,montelukast,pain,0,,,,,
+control_effect,montelukast,stool consistency,0,,,,,
+control_effect,multivitamin,alcohol intolerance,0,,,,,
+control_effect,multivitamin,paranoia,0,,,,,
+control_effect,"multivitamin, prenatal",social behavior,0,,,,,
+control_effect,nadolol,bronchitis,0,,,,,
+control_effect,naltrexone,dyspnea,0,,,,,
+control_effect,naltrexone,fever,0,,,,,
+control_effect,naltrexone,jaw pain,0,,,,,
+control_effect,naltrexone,nail health,0,,,,,
+control_effect,naltrexone,urinary incontinence,0,,,,,
+control_effect,naproxen,syncope,0,,,,,
+control_effect,nebivolol,drug craving,0,,,,,
+control_effect,nebivolol,dry eyes,0,,,,,
+control_effect,nebivolol,injection site pain,0,,,,,
+control_effect,nebivolol,involuntary movements,0,,,,,
+control_effect,nebivolol,mania,0,,,,,
+control_effect,nebivolol,muscle cramps,0,,,,,
+control_effect,nebivolol,ovarian cysts,0,,,,,
+control_effect,nebivolol,sweating,0,,,,,
+control_effect,nebivolol,syncope,0,,,,,
+control_effect,niacin,euphoria,0,,,,,
+control_effect,niacin,vomiting,0,,,,,
+control_effect,nifedipine,grief,0,,,,,
+control_effect,norethindrone,bronchitis,0,,,,,
+control_effect,norethindrone,fibromyalgia symptoms,0,,,,,
+control_effect,norethindrone,heart failure,0,,,,,
+control_effect,norethindrone,kidney function,0,,,,,
+control_effect,norethindrone,mitral valve prolapse,0,,,,,
+control_effect,norethindrone,skin irritation,0,,,,,
+control_effect,nortriptyline,hair growth or loss,0,,,,,
+control_effect,nortriptyline,leg cramps,0,,,,,
+control_effect,nortriptyline,nighttime eating,0,,,,,
+control_effect,nortriptyline,personality,0,,,,,
+control_effect,nortriptyline,wheezing,0,,,,,
+control_effect,olanzapine,alertness,0,,,,,
+control_effect,olanzapine,breast enlargement,0,,,,,
+control_effect,olanzapine,burning skin,0,,,,,
+control_effect,olanzapine,heart palpitations,0,,,,,
+control_effect,olanzapine,rhinorrhea,0,,,,,
+control_effect,olanzapine,sputum production,0,,,,,
+control_effect,olmesartan,skin discoloration,0,,,,,
+control_effect,olmesartan,triglycerides,0,,,,,
+control_effect,omalizumab,belching,0,,,,,
+control_effect,omalizumab,nighttime eating,0,,,,,
+control_effect,omalizumab,tooth discoloration,0,,,,,
+control_effect,omeprazole,sneezing,0,,,,,
+control_effect,orlistat,acid reflux,0,,,,,
+control_effect,orlistat,alcohol tolerance,0,,,,,
+control_effect,orlistat,bad breath,0,,,,,
+control_effect,orlistat,euphoria,0,,,,,
+control_effect,oxazepam,hangover symptoms,0,,,,,
+control_effect,oxybate,a1c,0,,,,,
+control_effect,oxybate,nasal congestion,0,,,,,
+control_effect,pantoprazole,tumor size,0,,,,,
+control_effect,paroxetine,dry skin,0,,,,,
+control_effect,paroxetine,dyspareunia,0,,,,,
+control_effect,paroxetine,low potassium,0,,,,,
+control_effect,passion flower,sputum production,0,,,,,
+control_effect,pexeva,hives,0,,,,,
+control_effect,phendimetrazine,irritable bowel symptoms,0,,,,,
+control_effect,phendimetrazine,premenstrual mood symptoms,0,,,,,
+control_effect,phentermine,apathy,0,,,,,
+control_effect,phentermine,bloating,0,,,,,
+control_effect,phentermine,blood calcium,0,,,,,
+control_effect,phentermine,gum problems,0,,,,,
+control_effect,phentermine,nighttime eating,0,,,,,
+control_effect,pitolisant,panic attacks,0,,,,,
+control_effect,pramipexole,hair growth or loss,0,,,,,
+control_effect,prasterone,dry eyes,0,,,,,
+control_effect,prazosin,behavior,0,,,,,
+control_effect,prazosin,jaw clenching,0,,,,,
+control_effect,prazosin,seizures,0,,,,,
+control_effect,prazosin,skin infection,0,,,,,
+control_effect,prednisone,flu-like symptoms,0,,,,,
+control_effect,prednisone,headache,0,,,,,
+control_effect,prednisone,oral thrush,0,,,,,
+control_effect,prednisone,skin scarring,0,,,,,
+control_effect,prednisone,tolerance,0,,,,,
+control_effect,prednisone,urinary tract infection,0,,,,,
+control_effect,pregabalin,balance and coordination,0,,,,,
+control_effect,pregabalin,burning skin,0,,,,,
+control_effect,pregabalin,coma,0,,,,,
+control_effect,pregabalin,heart failure,0,,,,,
+control_effect,pregabalin,heat intolerance,0,,,,,
+control_effect,pregabalin,hot flashes,0,,,,,
+control_effect,pregabalin,urinary tract infection,0,,,,,
+control_effect,primidone,vomiting,0,,,,,
+control_effect,prochlorperazine,arthritis,0,,,,,
+control_effect,prochlorperazine,belching,0,,,,,
+control_effect,prochlorperazine,muscle spasms,0,,,,,
+control_effect,progesterone,dry eyes,0,,,,,
+control_effect,promethazine,aura,0,,,,,
+control_effect,promethazine,liver problems,0,,,,,
+control_effect,promethazine,tumor size,0,,,,,
+control_effect,promethazine,urinary retention,0,,,,,
+control_effect,promethazine,urinary tract infection,0,,,,,
+control_effect,propranolol,agitation,0,,,,,
+control_effect,propranolol,alcohol intolerance,0,,,,,
+control_effect,propranolol,burning skin,0,,,,,
+control_effect,propranolol,edema,0,,,,,
+control_effect,propranolol,food cravings,0,,,,,
+control_effect,propranolol,intoxication,0,,,,,
+control_effect,propranolol,menstrual bleeding,0,,,,,
+control_effect,propranolol,muscle pain,0,,,,,
+control_effect,propranolol,vision changes,0,,,,,
+control_effect,propranolol,wheezing,0,,,,,
+control_effect,pseudoephedrine / triprolidine,jaw pain,0,,,,,
+control_effect,quetiapine,body odor,0,,,,,
+control_effect,quetiapine,coma,0,,,,,
+control_effect,quetiapine,dry mouth,0,,,,,
+control_effect,quetiapine,flatulence,0,,,,,
+control_effect,quetiapine,flushing,0,,,,,
+control_effect,quetiapine,hot flashes,0,,,,,
+control_effect,quetiapine,involuntary movements,0,,,,,
+control_effect,quetiapine,joint swelling,0,,,,,
+control_effect,quetiapine,leg pain,0,,,,,
+control_effect,quetiapine,low ejection fraction,0,,,,,
+control_effect,quetiapine,malaise,0,,,,,
+control_effect,quetiapine,nail health,0,,,,,
+control_effect,quetiapine,weakness,0,,,,,
+control_effect,rifaximin,stomach pain,0,,,,,
+control_effect,rifaximin,vaginal odor,0,,,,,
+control_effect,risperidone,edema,0,,,,,
+control_effect,risperidone,respiratory infection,0,,,,,
+control_effect,rivastigmine,spinal injuries,0,,,,,
+control_effect,sacubitril / valsartan,flushing,0,,,,,
+control_effect,semaglutide,agoraphobia,0,,,,,
+control_effect,semaglutide,anger,0,,,,,
+control_effect,semaglutide,balance and coordination,0,,,,,
+control_effect,semaglutide,bleeding,0,,,,,
+control_effect,semaglutide,dry skin,0,,,,,
+control_effect,semaglutide,hangover symptoms,0,,,,,
+control_effect,semaglutide,heart rate,0,,,,,
+control_effect,semaglutide,kidney damage,0,,,,,
+control_effect,semaglutide,urinary incontinence,0,,,,,
+control_effect,semaglutide,yawning,0,,,,,
+control_effect,sertraline,body odor,0,,,,,
+control_effect,sertraline,cold intolerance,0,,,,,
+control_effect,sertraline,constipation,0,,,,,
+control_effect,sertraline,restless legs,0,,,,,
+control_effect,sertraline,sputum production,0,,,,,
+control_effect,sertraline,stroke,0,,,,,
+control_effect,sildenafil,eating behavior,0,,,,,
+control_effect,silodosin,body odor,0,,,,,
+control_effect,sitagliptin,motivation,0,,,,,
+control_effect,spironolactone,aggression,0,,,,,
+control_effect,spironolactone,aura,0,,,,,
+control_effect,spironolactone,chest tightness,0,,,,,
+control_effect,spironolactone,dry mouth,0,,,,,
+control_effect,spironolactone,dyspnea,0,,,,,
+control_effect,spironolactone,hearing problems,0,,,,,
+control_effect,spironolactone,mouth sores,0,,,,,
+control_effect,spironolactone,neck pain,0,,,,,
+control_effect,spironolactone,obsessive-compulsive symptoms,0,,,,,
+control_effect,suvorexant,orgasm,0,,,,,
+control_effect,tadalafil,back pain,0,,,,,
+control_effect,tadalafil,dry eyes,0,,,,,
+control_effect,tadalafil,fecal incontinence,0,,,,,
+control_effect,tadalafil,grief,0,,,,,
+control_effect,tadalafil,muscle twitching,0,,,,,
+control_effect,tadalafil,nasal congestion,0,,,,,
+control_effect,tadalafil,sleep apnea,0,,,,,
+control_effect,tadalafil,vision changes,0,,,,,
+control_effect,tamsulosin,agitation,0,,,,,
+control_effect,tamsulosin,diarrhea,0,,,,,
+control_effect,tazarotene,aura,0,,,,,
+control_effect,tazarotene,kidney function,0,,,,,
+control_effect,tazarotene,sneezing,0,,,,,
+control_effect,tegaserod,thirst,0,,,,,
+control_effect,temazepam,orgasm,0,,,,,
+control_effect,terazosin,difficulty swallowing,0,,,,,
+control_effect,terazosin,muscle cramps,0,,,,,
+control_effect,terbinafine,confusion,0,,,,,
+control_effect,terbinafine,nasal dryness,0,,,,,
+control_effect,terbinafine,urinary frequency,0,,,,,
+control_effect,teriparatide,hangover symptoms,0,,,,,
+control_effect,testosterone,aggression,0,,,,,
+control_effect,testosterone,anger,0,,,,,
+control_effect,testosterone,blood lipids,0,,,,,
+control_effect,testosterone,crying,0,,,,,
+control_effect,testosterone,dermatitis,0,,,,,
+control_effect,testosterone,drowsiness,0,,,,,
+control_effect,testosterone,euphoria,0,,,,,
+control_effect,testosterone,hallucinations,0,,,,,
+control_effect,testosterone,involuntary movements,0,,,,,
+control_effect,testosterone,kidney stones,0,,,,,
+control_effect,testosterone,memory,0,,,,,
+control_effect,testosterone,motion sickness,0,,,,,
+control_effect,testosterone,stress,0,,,,,
+control_effect,testosterone,thirst,0,,,,,
+control_effect,testosterone,vertigo,0,,,,,
+control_effect,testosterone,vomiting,0,,,,,
+control_effect,theanine,flushing,0,,,,,
+control_effect,theanine,intoxication,0,,,,,
+control_effect,theanine,sneezing,0,,,,,
+control_effect,theanine,weakness,0,,,,,
+control_effect,thyroid (usp),drowsiness,0,,,,,
+control_effect,tirzepatide,balance and coordination,0,,,,,
+control_effect,tirzepatide,bowel movement frequency,0,,,,,
+control_effect,tirzepatide,bronchitis,0,,,,,
+control_effect,tirzepatide,fecal incontinence,0,,,,,
+control_effect,tirzepatide,flatulence,0,,,,,
+control_effect,tirzepatide,low ejection fraction,0,,,,,
+control_effect,tirzepatide,malaise,0,,,,,
+control_effect,tirzepatide,nasal congestion,0,,,,,
+control_effect,tirzepatide,nervousness,0,,,,,
+control_effect,tirzepatide,premenstrual mood symptoms,0,,,,,
+control_effect,tirzepatide,restlessness,0,,,,,
+control_effect,tirzepatide,sleep apnea,0,,,,,
+control_effect,tirzepatide,taste disturbance,0,,,,,
+control_effect,tizanidine,drug craving,0,,,,,
+control_effect,tizanidine,emotional blunting,0,,,,,
+control_effect,tizanidine,kidney stones,0,,,,,
+control_effect,tofacitinib,hangover symptoms,0,,,,,
+control_effect,tofacitinib,urinary incontinence,0,,,,,
+control_effect,topiramate,abdominal pain,0,,,,,
+control_effect,topiramate,back pain,0,,,,,
+control_effect,topiramate,foot pain,0,,,,,
+control_effect,topiramate,grief,0,,,,,
+control_effect,topiramate,hangover symptoms,0,,,,,
+control_effect,topiramate,heart palpitations,0,,,,,
+control_effect,topiramate,insomnia,0,,,,,
+control_effect,topiramate,kidney damage,0,,,,,
+control_effect,topiramate,muscle cramps,0,,,,,
+control_effect,topiramate,sweating,0,,,,,
+control_effect,topiramate,weakness,0,,,,,
+control_effect,tramadol,akathisia,0,,,,,
+control_effect,tramadol,blood pressure,0,,,,,
+control_effect,tramadol,body odor,0,,,,,
+control_effect,tramadol,dental caries,0,,,,,
+control_effect,tramadol,eye irritation,0,,,,,
+control_effect,tramadol,flushing,0,,,,,
+control_effect,tramadol,food cravings,0,,,,,
+control_effect,tramadol,foot pain,0,,,,,
+control_effect,tramadol,muscle pain,0,,,,,
+control_effect,tramadol,muscle spasms,0,,,,,
+control_effect,tramadol,night terrors,0,,,,,
+control_effect,tramadol,paranoia,0,,,,,
+control_effect,tramadol,rash,0,,,,,
+control_effect,tramadol,rhinorrhea,0,,,,,
+control_effect,tramadol,urinary tract infection,0,,,,,
+control_effect,tramadol,word-finding ability,0,,,,,
+control_effect,trazodone,addiction or dependence,0,,,,,
+control_effect,trazodone,angioedema,0,,,,,
+control_effect,trazodone,confusion,0,,,,,
+control_effect,trazodone,dry skin,0,,,,,
+control_effect,trazodone,heart rate,0,,,,,
+control_effect,trazodone,triglycerides,0,,,,,
+control_effect,trazodone,vomiting,0,,,,,
+control_effect,tretinoin,heat intolerance,0,,,,,
+control_effect,tretinoin,liver damage,0,,,,,
+control_effect,tretinoin,orgasm,0,,,,,
+control_effect,tretinoin,premenstrual mood symptoms,0,,,,,
+control_effect,turmeric extract,tic disorders,0,,,,,
+control_effect,ubidecarenone,parkinsonism,0,,,,,
+control_effect,ustekinumab,motion sickness,0,,,,,
+control_effect,valerian root extract,injection site reactions,0,,,,,
+control_effect,valproate,back pain,0,,,,,
+control_effect,valproate,muscle cramps,0,,,,,
+control_effect,valsartan,dry eyes,0,,,,,
+control_effect,varenicline,alertness,0,,,,,
+control_effect,varenicline,bad breath,0,,,,,
+control_effect,varenicline,pain,0,,,,,
+control_effect,varenicline,premenstrual mood symptoms,0,,,,,
+control_effect,varenicline,vision changes,0,,,,,
+control_effect,venlafaxine,hangover symptoms,0,,,,,
+control_effect,venlafaxine,nail health,0,,,,,
+control_effect,venlafaxine,psychosis,0,,,,,
+control_effect,verapamil,blood calcium,0,,,,,
+control_effect,vilazodone,flushing,0,,,,,
+control_effect,vilazodone,rosacea,0,,,,,
+control_effect,vitamin b12,a1c,0,,,,,
+control_effect,vitamin b12,urinary incontinence,0,,,,,
+control_effect,vortioxetine,irritable bowel symptoms,0,,,,,
+control_effect,ziprasidone,agoraphobia,0,,,,,
+control_effect,zonisamide,chest tightness,0,,,,,
+control_effect,zonisamide,vaginal odor,0,,,,,
+control_drug,5-hydroxytryptophan,cognitive function,0,,,,,
+control_drug,5-hydroxytryptophan,heart rhythm,0,,,,,
+control_drug,5-hydroxytryptophan,orgasm,0,,,,,
+control_drug,abatacept,cognitive function,0,,,,,
+control_drug,abatacept,fibromyalgia symptoms,0,,,,,
+control_drug,abatacept,mood,0,,,,,
+control_drug,abatacept,ptsd symptoms,0,,,,,
+control_drug,abatacept,skin irritation,0,,,,,
+control_drug,acamprosate,energy level,0,,,,,
+control_drug,acamprosate,other: productivity,0,,,,,
+control_drug,acetaminophen / aspirin / caffeine,acid reflux,0,,,,,
+control_drug,acetaminophen / aspirin / caffeine,acne,0,,,,,
+control_drug,acetaminophen / butalbital / caffeine,other: work performance,0,,,,,
+control_drug,acetaminophen / butalbital / caffeine,sweating,0,,,,,
+control_drug,acetaminophen / butalbital / caffeine,vision changes,0,,,,,
+control_drug,acetaminophen / codeine,joint pain,0,,,,,
+control_drug,acetaminophen / codeine,menstrual cycle,0,,,,,
+control_drug,acetaminophen / codeine,pain,0,,,,,
+control_drug,acetaminophen / diphenhydramine,joint pain,0,,,,,
+control_drug,acetaminophen / diphenhydramine,pain,0,,,,,
+control_drug,acetaminophen / hydrocodone,restless legs,0,,,,,
+control_drug,acetaminophen / propoxyphene,depression,0,,,,,
+control_drug,acetaminophen / propoxyphene,nerve pain,0,,,,,
+control_drug,acetaminophen / propoxyphene,parasomnias,0,,,,,
+control_drug,acetazolamide,sweating,0,,,,,
+control_drug,adalimumab,blood pressure,0,,,,,
+control_drug,adalimumab,fibromyalgia symptoms,0,,,,,
+control_drug,adalimumab,hair growth or loss,0,,,,,
+control_drug,adalimumab,self-esteem,0,,,,,
+control_drug,adalimumab,withdrawal symptoms,0,,,,,
+control_drug,adapalene,breast enlargement,0,,,,,
+control_drug,adapalene,social behavior,0,,,,,
+control_drug,adapalene / benzoyl peroxide,nausea,0,,,,,
+control_drug,adapalene / benzoyl peroxide,other: muscle tone,0,,,,,
+control_drug,adapalene / benzoyl peroxide,premenstrual mood symptoms,0,,,,,
+control_drug,adapalene / benzoyl peroxide,sleep quality,0,,,,,
+control_drug,alfuzosin,cognitive function,0,,,,,
+control_drug,alprazolam,edema,0,,,,,
+control_drug,aluminum chloride,skin scarring,0,,,,,
+control_drug,amitriptyline / perphenazine,breast enlargement,0,,,,,
+control_drug,amitriptyline / perphenazine,eating behavior,0,,,,,
+control_drug,amitriptyline / perphenazine,joint pain,0,,,,,
+control_drug,amlodipine,delusions,0,,,,,
+control_drug,amlodipine,nighttime eating,0,,,,,
+control_drug,amlodipine,sleep quality,0,,,,,
+control_drug,amlodipine,smoking craving,0,,,,,
+control_drug,amlodipine / atorvastatin,drug craving,0,,,,,
+control_drug,amlodipine / atorvastatin,headache,0,,,,,
+control_drug,amlodipine / atorvastatin,ptsd symptoms,0,,,,,
+control_drug,amlodipine / benazepril,cough,0,,,,,
+control_drug,amlodipine / olmesartan,asthma,0,,,,,
+control_drug,amlodipine / olmesartan,mobility,0,,,,,
+control_drug,amlodipine / olmesartan,pain,0,,,,,
+control_drug,amlodipine / olmesartan,sleep apnea,0,,,,,
+control_drug,amoxicillin / clarithromycin / lansoprazole,anxiety,0,,,,,
+control_drug,amoxicillin / clarithromycin / lansoprazole,cognitive function,0,,,,,
+control_drug,amoxicillin / clavulanate,body weight,0,,,,,
+control_drug,amoxicillin / clavulanate,headache,0,,,,,
+control_drug,amoxicillin / clavulanate,neck pain,0,,,,,
+control_drug,amoxicillin / clavulanate,sleep quality,0,,,,,
+control_drug,amphetamine,cognitive function,0,,,,,
+control_drug,amphetamine,seizures,0,,,,,
+control_drug,amphetamine / dextroamphetamine,smoking behavior,0,,,,,
+control_drug,apremilast,acne,0,,,,,
+control_drug,apremilast,bowel movement frequency,0,,,,,
+control_drug,apremilast,cognitive function,0,,,,,
+control_drug,apremilast,mood,0,,,,,
+control_drug,apremilast,stress,0,,,,,
+control_drug,aripiprazole,headache,0,,,,,
+control_drug,armodafinil,alcohol use,0,,,,,
+control_drug,armodafinil,ovarian cysts,0,,,,,
+control_drug,armodafinil,sinus infection,0,,,,,
+control_drug,asenapine,heart palpitations,0,,,,,
+control_drug,atarax,body weight,0,,,,,
+control_drug,atarax,leg pain,0,,,,,
+control_drug,atarax,sleep duration,0,,,,,
+control_drug,atarax,vision changes,0,,,,,
+control_drug,atarax,word-finding ability,0,,,,,
+control_drug,atenolol,hair growth or loss,0,,,,,
+control_drug,atenolol,psychosis,0,,,,,
+control_drug,atomoxetine,pain,0,,,,,
+control_drug,atropine / hyoscyamine / phenobarbital / scopolamine,chest pain,0,,,,,
+control_drug,atropine / hyoscyamine / phenobarbital / scopolamine,energy level,0,,,,,
+control_drug,atropine / hyoscyamine / phenobarbital / scopolamine,numbness,0,,,,,
+control_drug,azelastine / fluticasone,appetite,0,,,,,
+control_drug,azelate,attention,0,,,,,
+control_drug,azelate,energy level,0,,,,,
+control_drug,azelate,nervousness,0,,,,,
+control_drug,azithromycin,acne,0,,,,,
+control_drug,azithromycin,blood pressure,0,,,,,
+control_drug,azithromycin,skin discoloration,0,,,,,
+control_drug,azurite,sleep quality,0,,,,,
+control_drug,"bazedoxifene / estrogens, conjugated (usp)",asthma,0,,,,,
+control_drug,"bazedoxifene / estrogens, conjugated (usp)",bloating,0,,,,,
+control_drug,"bazedoxifene / estrogens, conjugated (usp)",body weight,0,,,,,
+control_drug,benzonatate,arthritis,0,,,,,
+control_drug,benzonatate,mood,0,,,,,
+control_drug,benzoyl peroxide / clindamycin,heart palpitations,0,,,,,
+control_drug,benzphetamine,appetite,0,,,,,
+control_drug,benzphetamine,drowsiness,0,,,,,
+control_drug,benzphetamine,mood,0,,,,,
+control_drug,benztropine,bloating,0,,,,,
+control_drug,benztropine,muscle pain,0,,,,,
+control_drug,bictegravir / emtricitabine / tenofovir alafenamide,blood pressure,0,,,,,
+control_drug,bictegravir / emtricitabine / tenofovir alafenamide,urinary incontinence,0,,,,,
+control_drug,biotin,aura,0,,,,,
+control_drug,bisacodyl,bowel movement frequency,0,,,,,
+control_drug,bisacodyl,irritable bowel symptoms,0,,,,,
+control_drug,bisacodyl,menstrual cycle,0,,,,,
+control_drug,bisacodyl,mood,0,,,,,
+control_drug,bisoprolol,back pain,0,,,,,
+control_drug,bisoprolol,cholesterol,0,,,,,
+control_drug,black cohosh extract,anxiety,0,,,,,
+control_drug,black cohosh extract,back pain,0,,,,,
+control_drug,black cohosh extract,food cravings,0,,,,,
+control_drug,black cohosh extract,sleep duration,0,,,,,
+control_drug,botulinum toxin type a,heart rate,0,,,,,
+control_drug,brexpiprazole,back pain,0,,,,,
+control_drug,brimonidine,chest pain,0,,,,,
+control_drug,brimonidine,hot flashes,0,,,,,
+control_drug,brimonidine,inflammation,0,,,,,
+control_drug,brimonidine,insomnia,0,,,,,
+control_drug,brimonidine,joint pain,0,,,,,
+control_drug,brimonidine,mood,0,,,,,
+control_drug,brimonidine,sex drive,0,,,,,
+control_drug,budesonide / formoterol,anxiety,0,,,,,
+control_drug,budesonide / formoterol,bloating,0,,,,,
+control_drug,budesonide / formoterol,hallucinations,0,,,,,
+control_drug,budesonide / formoterol,irritability,0,,,,,
+control_drug,buprenorphine,cough,0,,,,,
+control_drug,buprenorphine,dyspnea,0,,,,,
+control_drug,buprenorphine,nasal congestion,0,,,,,
+control_drug,buprenorphine,orgasm,0,,,,,
+control_drug,buprenorphine / naloxone,arthritis,0,,,,,
+control_drug,buprenorphine / naloxone,attention,0,,,,,
+control_drug,buprenorphine / naloxone,sleep duration,0,,,,,
+control_drug,bupropion,vision changes,0,,,,,
+control_drug,butorphanol,bowel movement frequency,0,,,,,
+control_drug,butorphanol,eating behavior,0,,,,,
+control_drug,cabergoline,cold extremities,0,,,,,
+control_drug,cabergoline,dry skin,0,,,,,
+control_drug,cabergoline,headache,0,,,,,
+control_drug,canagliflozin,muscle stiffness,0,,,,,
+control_drug,canagliflozin,withdrawal symptoms,0,,,,,
+control_drug,candesartan,alcohol craving,0,,,,,
+control_drug,candesartan,blood glucose,0,,,,,
+control_drug,candesartan,confusion,0,,,,,
+control_drug,candesartan,other: smaller pores,0,,,,,
+control_drug,candesartan,skin discoloration,0,,,,,
+control_drug,carbamazepine,anxiety,0,,,,,
+control_drug,carbamazepine,appetite,0,,,,,
+control_drug,carbamazepine,pain,0,,,,,
+control_drug,cariprazine,blood pressure,0,,,,,
+control_drug,carisoprodol,depression,0,,,,,
+control_drug,carisoprodol,premenstrual mood symptoms,0,,,,,
+control_drug,carisoprodol,skin discoloration,0,,,,,
+control_drug,carvedilol,crying,0,,,,,
+control_drug,carvedilol,urinary retention,0,,,,,
+control_drug,cefuroxime,attention,0,,,,,
+control_drug,cefuroxime,muscle spasms,0,,,,,
+control_drug,celecoxib,body weight,0,,,,,
+control_drug,celecoxib,other: coffee craving,0,,,,,
+control_drug,cephalexin,allergic reaction,0,,,,,
+control_drug,cephalexin,depression,0,,,,,
+control_drug,cephalexin,energy level,0,,,,,
+control_drug,cetirizine,adhd symptoms,0,,,,,
+control_drug,cetirizine,akathisia,0,,,,,
+control_drug,cetirizine,alertness,0,,,,,
+control_drug,cetirizine,hair growth or loss,0,,,,,
+control_drug,cetirizine,headache,0,,,,,
+control_drug,cetirizine,muscle spasms,0,,,,,
+control_drug,cetirizine,social behavior,0,,,,,
+control_drug,chlordiazepoxide,allergic reaction,0,,,,,
+control_drug,chlordiazepoxide,blood pressure,0,,,,,
+control_drug,chlordiazepoxide,cognitive function,0,,,,,
+control_drug,chlordiazepoxide,energy level,0,,,,,
+control_drug,chlordiazepoxide,stress,0,,,,,
+control_drug,chlorhexidine,cognitive function,0,,,,,
+control_drug,chlorhexidine,pain,0,,,,,
+control_drug,chlorpheniramine / hydrocodone,energy level,0,,,,,
+control_drug,chlorpromazine,pain,0,,,,,
+control_drug,chlorpromazine,sexual function,0,,,,,
+control_drug,chlorpromazine,urinary incontinence,0,,,,,
+control_drug,chlorzoxazone,alcohol craving,0,,,,,
+control_drug,chlorzoxazone,ptsd symptoms,0,,,,,
+control_drug,chlorzoxazone,sex drive,0,,,,,
+control_drug,ciprofloxacin,attention,0,,,,,
+control_drug,clindamycin,anxiety,0,,,,,
+control_drug,clonazepam,alertness,0,,,,,
+control_drug,clonazepam,appetite,0,,,,,
+control_drug,clonazepam,ejaculation,0,,,,,
+control_drug,clonazepam,heart rate,0,,,,,
+control_drug,clonidine,dermatitis,0,,,,,
+control_drug,clonidine,erection,0,,,,,
+control_drug,clorazepate,hair growth or loss,0,,,,,
+control_drug,cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,skin irritation,0,,,,,
+control_drug,cobicistat / elvitegravir / emtricitabine / tenofovir disoproxil,vision changes,0,,,,,
+control_drug,codeine / guaifenesin,blood pressure,0,,,,,
+control_drug,codeine / guaifenesin,body weight,0,,,,,
+control_drug,codeine / guaifenesin,compulsive behavior,0,,,,,
+control_drug,codeine / guaifenesin,drowsiness,0,,,,,
+control_drug,codeine / guaifenesin,night terrors,0,,,,,
+control_drug,codeine / guaifenesin,sexual function,0,,,,,
+control_drug,copper,sleep quality,0,,,,,
+control_drug,cyclobenzaprine,jaw clenching,0,,,,,
+control_drug,cyclobenzaprine,nausea,0,,,,,
+control_drug,cyproheptadine,night terrors,0,,,,,
+control_drug,cyproheptadine,sleep quality,0,,,,,
+control_drug,dabigatran,atrial fibrillation,0,,,,,
+control_drug,dabigatran,panic attacks,0,,,,,
+control_drug,dabigatran,parasomnias,0,,,,,
+control_drug,dabigatran,sleep quality,0,,,,,
+control_drug,dapagliflozin,eating behavior,0,,,,,
+control_drug,dapagliflozin / metformin,asthma,0,,,,,
+control_drug,dapagliflozin / metformin,bloating,0,,,,,
+control_drug,dapagliflozin / metformin,heart palpitations,0,,,,,
+control_drug,dapagliflozin / metformin,kidney function,0,,,,,
+control_drug,dapagliflozin / metformin,pain,0,,,,,
+control_drug,dapsone,headache,0,,,,,
+control_drug,deplin,sleep quality,0,,,,,
+control_drug,desipramine,anxiety,0,,,,,
+control_drug,desipramine,joint swelling,0,,,,,
+control_drug,desipramine,night terrors,0,,,,,
+control_drug,desipramine,social behavior,0,,,,,
+control_drug,desogestrel / ethinyl estradiol,hot flashes,0,,,,,
+control_drug,desonide,body weight,0,,,,,
+control_drug,desonide,irritable bowel symptoms,0,,,,,
+control_drug,desonide,sleep quality,0,,,,,
+control_drug,desvenlafaxine,orgasm,0,,,,,
+control_drug,desvenlafaxine,rhinorrhea,0,,,,,
+control_drug,desvenlafaxine,withdrawal symptoms,0,,,,,
+control_drug,dexamethasone,alertness,0,,,,,
+control_drug,dexamethasone,pain,0,,,,,
+control_drug,dexamethasone,vaginal odor,0,,,,,
+control_drug,dexlansoprazole,alcohol craving,0,,,,,
+control_drug,dexlansoprazole,energy level,0,,,,,
+control_drug,dexlansoprazole,food cravings,0,,,,,
+control_drug,dexlansoprazole,mood,0,,,,,
+control_drug,dexlansoprazole,obsessive-compulsive symptoms,0,,,,,
+control_drug,dexmethylphenidate,addiction or dependence,0,,,,,
+control_drug,dexmethylphenidate,edema,0,,,,,
+control_drug,dexmethylphenidate,ovarian cysts,0,,,,,
+control_drug,dexmethylphenidate,wrinkles,0,,,,,
+control_drug,dextroamphetamine,addiction or dependence,0,,,,,
+control_drug,dextroamphetamine,food cravings,0,,,,,
+control_drug,dextromethorphan,other: insulin dose,0,,,,,
+control_drug,diazepam,impulse control,0,,,,,
+control_drug,diazepam,menstrual cycle,0,,,,,
+control_drug,diclofenac,body weight,0,,,,,
+control_drug,diclofenac,hives,0,,,,,
+control_drug,diclofenac,menstrual cycle,0,,,,,
+control_drug,diclofenac,other: productivity,0,,,,,
+control_drug,dicyclomine,eating behavior,0,,,,,
+control_drug,dicyclomine,self-esteem,0,,,,,
+control_drug,dienogest / estradiol,sex drive,0,,,,,
+control_drug,dienogest / estradiol,stress,0,,,,,
+control_drug,diethylpropion,nasal congestion,0,,,,,
+control_drug,diethylpropion,social behavior,0,,,,,
+control_drug,diltiazem,addiction or dependence,0,,,,,
+control_drug,dimenhydrinate,adhd symptoms,0,,,,,
+control_drug,dimenhydrinate,attention,0,,,,,
+control_drug,dimenhydrinate,energy level,0,,,,,
+control_drug,dimenhydrinate,neuropathy,0,,,,,
+control_drug,dimenhydrinate,sleep quality,0,,,,,
+control_drug,diphenhydramine,heart rhythm,0,,,,,
+control_drug,diphenhydramine / naproxen,pain,0,,,,,
+control_drug,doxazosin,body weight,0,,,,,
+control_drug,doxazosin,stomach pain,0,,,,,
+control_drug,doxepin,cognitive function,0,,,,,
+control_drug,doxepin,other: crohn's symptoms,0,,,,,
+control_drug,doxycycline,itching,0,,,,,
+control_drug,doxycycline,pain,0,,,,,
+control_drug,doxycycline,paranoia,0,,,,,
+control_drug,doxylamine,cognitive function,0,,,,,
+control_drug,doxylamine,premenstrual mood symptoms,0,,,,,
+control_drug,doxylamine,sleep duration,0,,,,,
+control_drug,doxylamine,sleep quality,0,,,,,
+control_drug,dronabinol,anxiety,0,,,,,
+control_drug,drospirenone,appetite,0,,,,,
+control_drug,drospirenone / estetrol,sleep duration,0,,,,,
+control_drug,drospirenone / estradiol,tingling,0,,,,,
+control_drug,dulaglutide,bad breath,0,,,,,
+control_drug,dulaglutide,other: muscle mass,0,,,,,
+control_drug,dulaglutide,sexual function,0,,,,,
+control_drug,dulaglutide,urinary tract infection,0,,,,,
+control_drug,duloxetine,hair growth or loss,0,,,,,
+control_drug,duloxetine,nausea,0,,,,,
+control_drug,dutasteride,dyspnea,0,,,,,
+control_drug,dutasteride,nerve pain,0,,,,,
+control_drug,elbasvir / grazoprevir,asthma,0,,,,,
+control_drug,eluxadoline,sleep quality,0,,,,,
+control_drug,empagliflozin,mood,0,,,,,
+control_drug,empagliflozin,skin scarring,0,,,,,
+control_drug,empagliflozin / linagliptin,other: penis size,0,,,,,
+control_drug,empagliflozin / metformin,bleeding,0,,,,,
+control_drug,emtricitabine / rilpivirine / tenofovir disoproxil,sleep quality,0,,,,,
+control_drug,emtricitabine / rilpivirine / tenofovir disoproxil,vomiting,0,,,,,
+control_drug,endep,alcohol use,0,,,,,
+control_drug,endep,headache,0,,,,,
+control_drug,epinephrine,hair growth or loss,0,,,,,
+control_drug,epinephrine,impulse control,0,,,,,
+control_drug,epinephrine,menstrual cramps,0,,,,,
+control_drug,epinephrine,stomach pain,0,,,,,
+control_drug,escitalopram,breast enlargement,0,,,,,
+control_drug,estradiol,bloating,0,,,,,
+control_drug,estradiol / ethinyl estradiol / levonorgestrel,chest pain,0,,,,,
+control_drug,estradiol / ethinyl estradiol / levonorgestrel,motion sickness,0,,,,,
+control_drug,estradiol / ethinyl estradiol / levonorgestrel,triglycerides,0,,,,,
+control_drug,"estrogens, conjugated (usp)",edema,0,,,,,
+control_drug,"estrogens, conjugated (usp)",obsessive-compulsive symptoms,0,,,,,
+control_drug,"estrogens, esterified (usp) / methyltestosterone",body weight,0,,,,,
+control_drug,"estrogens, esterified (usp) / methyltestosterone",depression,0,,,,,
+control_drug,eszopiclone,alcohol use,0,,,,,
+control_drug,eszopiclone,sleep quality,0,,,,,
+control_drug,ethinyl estradiol / ethynodiol,pain,0,,,,,
+control_drug,ethinyl estradiol / ethynodiol,tremor,0,,,,,
+control_drug,ethinyl estradiol / ethynodiol,urinary frequency,0,,,,,
+control_drug,ethinyl estradiol / etonogestrel,joint pain,0,,,,,
+control_drug,ethinyl estradiol / etonogestrel,mobility,0,,,,,
+control_drug,ethinyl estradiol / levonorgestrel,body weight,0,,,,,
+control_drug,ethinyl estradiol / levonorgestrel,depression,0,,,,,
+control_drug,ethinyl estradiol / levonorgestrel,energy level,0,,,,,
+control_drug,ethinyl estradiol / norelgestromin,dyspnea,0,,,,,
+control_drug,ethinyl estradiol / norelgestromin,restlessness,0,,,,,
+control_drug,ethinyl estradiol / norelgestromin,stress,0,,,,,
+control_drug,ethinyl estradiol / norethindrone,muscle stiffness,0,,,,,
+control_drug,ethinyl estradiol / norgestimate,alcohol use,0,,,,,
+control_drug,ethinyl estradiol / norgestrel,blood pressure,0,,,,,
+control_drug,ethinyl estradiol / norgestrel,energy level,0,,,,,
+control_drug,ethinyl estradiol / norgestrel,mobility,0,,,,,
+control_drug,ethinyl estradiol / norgestrel,other: academic performance,0,,,,,
+control_drug,ethinyl estradiol / norgestrel,thirst,0,,,,,
+control_drug,ethinyl estradiol / segesterone,appetite,0,,,,,
+control_drug,ethinyl estradiol / segesterone,body weight,0,,,,,
+control_drug,ethinyl estradiol / segesterone,emotion regulation,0,,,,,
+control_drug,ethinyl estradiol / segesterone,euphoria,0,,,,,
+control_drug,ethinyl estradiol / segesterone,mood,0,,,,,
+control_drug,etonogestrel,edema,0,,,,,
+control_drug,exenatide,behavior,0,,,,,
+control_drug,fentanyl,dizziness,0,,,,,
+control_drug,fentanyl,night sweats,0,,,,,
+control_drug,fentanyl,withdrawal symptoms,0,,,,,
+control_drug,ferrous sulfate,dyspnea,0,,,,,
+control_drug,ferrous sulfate,emotional regulation,0,,,,,
+control_drug,ferrous sulfate,pain,0,,,,,
+control_drug,ferrous sulfate,parasomnias,0,,,,,
+control_drug,ferrous sulfate,sinus infection,0,,,,,
+control_drug,fexofenadine,alertness,0,,,,,
+control_drug,fexofenadine,allergic reaction,0,,,,,
+control_drug,fexofenadine,headache,0,,,,,
+control_drug,fexofenadine,muscle pain,0,,,,,
+control_drug,fexofenadine,sleep quality,0,,,,,
+control_drug,fexofenadine,urinary incontinence,0,,,,,
+control_drug,finasteride,energy level,0,,,,,
+control_drug,finasteride,erection,0,,,,,
+control_drug,finasteride,impulse control,0,,,,,
+control_drug,finasteride,other: convenience,0,,,,,
+control_drug,finasteride,sleep quality,0,,,,,
+control_drug,flecainide,anger,0,,,,,
+control_drug,flecainide,behavior,0,,,,,
+control_drug,flecainide,blood glucose,0,,,,,
+control_drug,flibanserin,appetite,0,,,,,
+control_drug,flibanserin,body weight,0,,,,,
+control_drug,flibanserin,impulse control,0,,,,,
+control_drug,fluorouracil,back pain,0,,,,,
+control_drug,fluorouracil,emotional regulation,0,,,,,
+control_drug,fluoxetine,heart rhythm,0,,,,,
+control_drug,fluoxetine / olanzapine,energy level,0,,,,,
+control_drug,flurazepam,balance and coordination,0,,,,,
+control_drug,flurazepam,body weight,0,,,,,
+control_drug,fluticasone,anxiety,0,,,,,
+control_drug,fluticasone,blood glucose,0,,,,,
+control_drug,fluticasone,heart rhythm,0,,,,,
+control_drug,fluticasone,pain,0,,,,,
+control_drug,fluticasone,sex drive,0,,,,,
+control_drug,fluticasone / vilanterol,other: work performance,0,,,,,
+control_drug,fluvoxamine,sputum production,0,,,,,
+control_drug,furosemide,energy level,0,,,,,
+control_drug,furosemide,food cravings,0,,,,,
+control_drug,furosemide,heart rate,0,,,,,
+control_drug,furosemide,pain,0,,,,,
+control_drug,furosemide,sleep quality,0,,,,,
+control_drug,gabapentin,crying,0,,,,,
+control_drug,gabapentin,vomiting,0,,,,,
+control_drug,glatiramer,anxiety,0,,,,,
+control_drug,glatiramer,body weight,0,,,,,
+control_drug,glatiramer,headache,0,,,,,
+control_drug,glecaprevir / pibrentasvir,blood pressure,0,,,,,
+control_drug,glecaprevir / pibrentasvir,chest pain,0,,,,,
+control_drug,glecaprevir / pibrentasvir,paranoia,0,,,,,
+control_drug,glecaprevir / pibrentasvir,taste disturbance,0,,,,,
+control_drug,golimumab,depression,0,,,,,
+control_drug,golimumab,edema,0,,,,,
+control_drug,golimumab,energy level,0,,,,,
+control_drug,guaifenesin,food cravings,0,,,,,
+control_drug,guanfacine,arthritis,0,,,,,
+control_drug,guanfacine,irritable bowel symptoms,0,,,,,
+control_drug,guanfacine,tingling,0,,,,,
+control_drug,guselkumab,agitation,0,,,,,
+control_drug,guselkumab,pain,0,,,,,
+control_drug,guselkumab,sex drive,0,,,,,
+control_drug,haloperidol,blood pressure,0,,,,,
+control_drug,haloperidol,drug craving,0,,,,,
+control_drug,haloperidol,muscle spasms,0,,,,,
+control_drug,homatropine / hydrocodone,alcohol craving,0,,,,,
+control_drug,homatropine / hydrocodone,body weight,0,,,,,
+control_drug,homatropine / hydrocodone,nail health,0,,,,,
+control_drug,homatropine / hydrocodone,panic attacks,0,,,,,
+control_drug,hyaluronate,anxiety,0,,,,,
+control_drug,hyaluronate,euphoria,0,,,,,
+control_drug,hyaluronate,food cravings,0,,,,,
+control_drug,hyaluronate,headache,0,,,,,
+control_drug,hyaluronate,mood,0,,,,,
+control_drug,hyaluronate,nausea,0,,,,,
+control_drug,hyaluronate,tremor,0,,,,,
+control_drug,hydrochlorothiazide,attention,0,,,,,
+control_drug,hydrochlorothiazide,bloating,0,,,,,
+control_drug,hydrochlorothiazide / lisinopril,aura,0,,,,,
+control_drug,hydrochlorothiazide / lisinopril,menstrual cycle,0,,,,,
+control_drug,hydrochlorothiazide / lisinopril,obsessive-compulsive symptoms,0,,,,,
+control_drug,hydrochlorothiazide / lisinopril,sexual function,0,,,,,
+control_drug,hydrochlorothiazide / lisinopril,sinus infection,0,,,,,
+control_drug,hydrochlorothiazide / lisinopril,sleep duration,0,,,,,
+control_drug,hydrochlorothiazide / lisinopril,smoking behavior,0,,,,,
+control_drug,hydrochlorothiazide / losartan,dry skin,0,,,,,
+control_drug,hydrochlorothiazide / losartan,seizures,0,,,,,
+control_drug,hydrochlorothiazide / telmisartan,agoraphobia,0,,,,,
+control_drug,hydrochlorothiazide / triamterene,appetite,0,,,,,
+control_drug,hydrochlorothiazide / triamterene,crying,0,,,,,
+control_drug,hydrochlorothiazide / valsartan,irritability,0,,,,,
+control_drug,hydromorphone,body weight,0,,,,,
+control_drug,hydromorphone,erection,0,,,,,
+control_drug,hydroxychloroquine,a1c,0,,,,,
+control_drug,hydroxychloroquine,joint pain,0,,,,,
+control_drug,hydroxychloroquine,sleep duration,0,,,,,
+control_drug,hydroxyzine,night sweats,0,,,,,
+control_drug,hytrin,anxiety,0,,,,,
+control_drug,hytrin,atrial fibrillation,0,,,,,
+control_drug,hytrin,body weight,0,,,,,
+control_drug,hytrin,energy level,0,,,,,
+control_drug,hytrin,hot flashes,0,,,,,
+control_drug,hytrin,motivation,0,,,,,
+control_drug,hytrin,tumor size,0,,,,,
+control_drug,ibuprofen,cyst size,0,,,,,
+control_drug,iloperidone,sexual function,0,,,,,
+control_drug,iloperidone,sleep quality,0,,,,,
+control_drug,imipramine,addiction or dependence,0,,,,,
+control_drug,imipramine,back pain,0,,,,,
+control_drug,imipramine,insomnia,0,,,,,
+control_drug,imipramine,skin irritation,0,,,,,
+control_drug,indomethacin,attention,0,,,,,
+control_drug,indomethacin,energy level,0,,,,,
+control_drug,indomethacin,mood,0,,,,,
+control_drug,infliximab,anxiety,0,,,,,
+control_drug,infliximab,drug craving,0,,,,,
+control_drug,insulin detemir,cognitive function,0,,,,,
+control_drug,insulin detemir,sleep quality,0,,,,,
+control_drug,isotretinoin,joint pain,0,,,,,
+control_drug,isotretinoin,ptsd symptoms,0,,,,,
+control_drug,ivermectin,energy level,0,,,,,
+control_drug,ivermectin,jaw clenching,0,,,,,
+control_drug,ivermectin,menstrual bleeding,0,,,,,
+control_drug,ixekizumab,alertness,0,,,,,
+control_drug,ixekizumab,nail health,0,,,,,
+control_drug,ixekizumab,urinary frequency,0,,,,,
+control_drug,kava preparation,motivation,0,,,,,
+control_drug,ketamine,appetite,0,,,,,
+control_drug,ketamine,blood glucose,0,,,,,
+control_drug,ketamine,energy level,0,,,,,
+control_drug,ketamine,hair growth or loss,0,,,,,
+control_drug,ketoprofen,energy level,0,,,,,
+control_drug,ketoprofen,heart palpitations,0,,,,,
+control_drug,ketorolac,body weight,0,,,,,
+control_drug,ketorolac,urinary frequency,0,,,,,
+control_drug,lamotrigine,agoraphobia,0,,,,,
+control_drug,lamotrigine,alcohol craving,0,,,,,
+control_drug,lamotrigine,menstrual cycle,0,,,,,
+control_drug,lamotrigine,urinary frequency,0,,,,,
+control_drug,ledipasvir / sofosbuvir,bowel movement frequency,0,,,,,
+control_drug,ledipasvir / sofosbuvir,muscle pain,0,,,,,
+control_drug,letrozole,sex drive,0,,,,,
+control_drug,letrozole,sinus infection,0,,,,,
+control_drug,leuprolide,drug craving,0,,,,,
+control_drug,leuprolide,insomnia,0,,,,,
+control_drug,leuprolide,nerve pain,0,,,,,
+control_drug,leuprolide,other: racing thoughts,0,,,,,
+control_drug,leuprolide,premenstrual mood symptoms,0,,,,,
+control_drug,leuprolide,sleep duration,0,,,,,
+control_drug,leuprolide,urinary frequency,0,,,,,
+control_drug,levocetirizine,energy level,0,,,,,
+control_drug,levocetirizine,pain,0,,,,,
+control_drug,levofloxacin,adhd symptoms,0,,,,,
+control_drug,levofloxacin,body weight,0,,,,,
+control_drug,levofloxacin,cholesterol,0,,,,,
+control_drug,levomefolate,asthma,0,,,,,
+control_drug,levomefolate,self-esteem,0,,,,,
+control_drug,levomefolate,sleep quality,0,,,,,
+control_drug,levomilnacipran,depression,0,,,,,
+control_drug,levonorgestrel,alertness,0,,,,,
+control_drug,levonorgestrel,sleep quality,0,,,,,
+control_drug,levonorgestrel (iud),alcohol craving,0,,,,,
+control_drug,levonorgestrel (iud),dyspnea,0,,,,,
+control_drug,librium,appetite,0,,,,,
+control_drug,librium,blood glucose,0,,,,,
+control_drug,librium,energy level,0,,,,,
+control_drug,librium,other: eye redness,0,,,,,
+control_drug,lifitegrast,premenstrual mood symptoms,0,,,,,
+control_drug,lifitegrast,sleep quality,0,,,,,
+control_drug,lifitegrast,wrinkles,0,,,,,
+control_drug,linaclotide,dermatitis,0,,,,,
+control_drug,linaclotide,menstrual bleeding,0,,,,,
+control_drug,linaclotide,muscle stiffness,0,,,,,
+control_drug,linagliptin,bowel movement frequency,0,,,,,
+control_drug,linagliptin,mood,0,,,,,
+control_drug,linagliptin,pain,0,,,,,
+control_drug,linagliptin / metformin,anxiety,0,,,,,
+control_drug,linagliptin / metformin,body odor,0,,,,,
+control_drug,linagliptin / metformin,vertigo,0,,,,,
+control_drug,liothyronine,acid reflux,0,,,,,
+control_drug,liothyronine,acne,0,,,,,
+control_drug,liothyronine,anxiety,0,,,,,
+control_drug,liraglutide,erection,0,,,,,
+control_drug,liraglutide,headache,0,,,,,
+control_drug,liraglutide,irritable bowel symptoms,0,,,,,
+control_drug,lisdexamfetamine,headache,0,,,,,
+control_drug,lisdexamfetamine,nerve pain,0,,,,,
+control_drug,lisdexamfetamine,skin irritation,0,,,,,
+control_drug,lisinopril,drug craving,0,,,,,
+control_drug,lisinopril,urinary frequency,0,,,,,
+control_drug,lithium,edema,0,,,,,
+control_drug,lithium,nerve pain,0,,,,,
+control_drug,lorazepam,back pain,0,,,,,
+control_drug,lorazepam,cough,0,,,,,
+control_drug,lorazepam,obsessive-compulsive symptoms,0,,,,,
+control_drug,lorcaserin,hair growth or loss,0,,,,,
+control_drug,lorcaserin,vertigo,0,,,,,
+control_drug,losartan,depression,0,,,,,
+control_drug,lumateperone,wrinkles,0,,,,,
+control_drug,lurasidone,headache,0,,,,,
+control_drug,lurasidone,hives,0,,,,,
+control_drug,luvox cr,mood,0,,,,,
+control_drug,meclizine,irritable bowel symptoms,0,,,,,
+control_drug,meclofenamic acid,headache,0,,,,,
+control_drug,meclofenamic acid,sleep quality,0,,,,,
+control_drug,medium chain triglycerides,dyspnea,0,,,,,
+control_drug,medium chain triglycerides,sleep duration,0,,,,,
+control_drug,medium chain triglycerides,sleep quality,0,,,,,
+control_drug,medroxyprogesterone,obsessive-compulsive symptoms,0,,,,,
+control_drug,melatonin,breast enlargement,0,,,,,
+control_drug,melatonin,unintended pregnancy,0,,,,,
+control_drug,meloxicam,blood pressure,0,,,,,
+control_drug,meperidine,alcohol use,0,,,,,
+control_drug,meperidine,grief,0,,,,,
+control_drug,meridia,obsessive-compulsive symptoms,0,,,,,
+control_drug,metformin,irritability,0,,,,,
+control_drug,metformin,motivation,0,,,,,
+control_drug,metformin,unintended pregnancy,0,,,,,
+control_drug,metformin / sitagliptin,mood,0,,,,,
+control_drug,metformin / sitagliptin,restless legs,0,,,,,
+control_drug,metformin / sitagliptin,social behavior,0,,,,,
+control_drug,methadone,heart rate,0,,,,,
+control_drug,methadone,urinary frequency,0,,,,,
+control_drug,methamphetamine,alcohol craving,0,,,,,
+control_drug,methocarbamol,nausea,0,,,,,
+control_drug,methocarbamol,withdrawal symptoms,0,,,,,
+control_drug,methotrexate,energy level,0,,,,,
+control_drug,methotrexate,mobility,0,,,,,
+control_drug,methyl salicylate,alcohol use,0,,,,,
+control_drug,methyl salicylate,anxiety,0,,,,,
+control_drug,methylphenidate,smoking behavior,0,,,,,
+control_drug,methylprednisolone,attention,0,,,,,
+control_drug,metoprolol,addiction or dependence,0,,,,,
+control_drug,metronidazole,depression,0,,,,,
+control_drug,metronidazole,stomach pain,0,,,,,
+control_drug,minocycline,cognitive function,0,,,,,
+control_drug,minocycline,motivation,0,,,,,
+control_drug,minocycline,neck pain,0,,,,,
+control_drug,minocycline,pain,0,,,,,
+control_drug,minocycline,seizures,0,,,,,
+control_drug,mirabegron,dyspnea,0,,,,,
+control_drug,mirabegron,social behavior,0,,,,,
+control_drug,mirtazapine,fibromyalgia symptoms,0,,,,,
+control_drug,modafinil,triglycerides,0,,,,,
+control_drug,modafinil,vaginal discharge,0,,,,,
+control_drug,mometasone,smoking craving,0,,,,,
+control_drug,mometasone,suicidality,0,,,,,
+control_drug,montelukast,body weight,0,,,,,
+control_drug,morphine,blood pressure,0,,,,,
+control_drug,morphine,eating behavior,0,,,,,
+control_drug,morphine,food cravings,0,,,,,
+control_drug,morphine,wrinkles,0,,,,,
+control_drug,multivitamin,body weight,0,,,,,
+control_drug,nabumetone,taste disturbance,0,,,,,
+control_drug,nadolol,allergic reaction,0,,,,,
+control_drug,nadolol,dissociation,0,,,,,
+control_drug,naltrexone,movement problems,0,,,,,
+control_drug,naltrexone,muscle spasms,0,,,,,
+control_drug,naltrexone,nerve pain,0,,,,,
+control_drug,naltrexone,other: migraine relief,0,,,,,
+control_drug,naproxen,back pain,0,,,,,
+control_drug,naproxen,body weight,0,,,,,
+control_drug,natalizumab,acne,0,,,,,
+control_drug,natalizumab,other: racing thoughts,0,,,,,
+control_drug,natalizumab,self-esteem,0,,,,,
+control_drug,nebivolol,appetite,0,,,,,
+control_drug,nebivolol,attention,0,,,,,
+control_drug,nefazodone,motivation,0,,,,,
+control_drug,niacin,aggression,0,,,,,
+control_drug,niacin,alcohol craving,0,,,,,
+control_drug,nifedipine,blood pressure,0,,,,,
+control_drug,nifedipine,dry eyes,0,,,,,
+control_drug,nifedipine,erection,0,,,,,
+control_drug,nifedipine,menstrual cramps,0,,,,,
+control_drug,nifedipine,motivation,0,,,,,
+control_drug,nifedipine,muscle cramps,0,,,,,
+control_drug,nifedipine,sleep duration,0,,,,,
+control_drug,nifedipine,sleep quality,0,,,,,
+control_drug,nirmatrelvir / ritonavir,appetite,0,,,,,
+control_drug,nirmatrelvir / ritonavir,mobility,0,,,,,
+control_drug,nirmatrelvir / ritonavir,motivation,0,,,,,
+control_drug,nirmatrelvir / ritonavir,movement problems,0,,,,,
+control_drug,norethindrone,alcohol use,0,,,,,
+control_drug,nortriptyline,agitation,0,,,,,
+control_drug,nortriptyline,mobility,0,,,,,
+control_drug,ocrelizumab,acne,0,,,,,
+control_drug,ocrelizumab,body weight,0,,,,,
+control_drug,ocrelizumab,mood,0,,,,,
+control_drug,ocrelizumab,skin scarring,0,,,,,
+control_drug,olmesartan,vision changes,0,,,,,
+control_drug,omalizumab,edema,0,,,,,
+control_drug,omalizumab,energy level,0,,,,,
+control_drug,omalizumab,eye irritation,0,,,,,
+control_drug,omeprazole,a1c,0,,,,,
+control_drug,omeprazole,tic disorders,0,,,,,
+control_drug,oxazepam,breast enlargement,0,,,,,
+control_drug,oxazepam,cognitive function,0,,,,,
+control_drug,oxcarbazepine,alcohol use,0,,,,,
+control_drug,oxcarbazepine,energy level,0,,,,,
+control_drug,oxcarbazepine,headache,0,,,,,
+control_drug,oxcarbazepine,nail health,0,,,,,
+control_drug,oxcarbazepine,smoking craving,0,,,,,
+control_drug,oxcarbazepine,yeast infections,0,,,,,
+control_drug,oxybate,anxiety,0,,,,,
+control_drug,oxybate,body weight,0,,,,,
+control_drug,oxybate,other: migraine frequency,0,,,,,
+control_drug,oxybutynin,vertigo,0,,,,,
+control_drug,oxymorphone,sleep quality,0,,,,,
+control_drug,paliperidone,back pain,0,,,,,
+control_drug,paliperidone,memory,0,,,,,
+control_drug,pantoprazole,acne,0,,,,,
+control_drug,pantoprazole,energy level,0,,,,,
+control_drug,paroxetine,blood glucose,0,,,,,
+control_drug,paroxetine,neuropathy,0,,,,,
+control_drug,paroxetine,word-finding ability,0,,,,,
+control_drug,passion flower,a1c,0,,,,,
+control_drug,passion flower,cholesterol,0,,,,,
+control_drug,passion flower,depression,0,,,,,
+control_drug,passion flower,restlessness,0,,,,,
+control_drug,passion flower,self-esteem,0,,,,,
+control_drug,perphenazine,crying,0,,,,,
+control_drug,perphenazine,neuropathy,0,,,,,
+control_drug,perphenazine,other: prolactin level,0,,,,,
+control_drug,pexeva,energy level,0,,,,,
+control_drug,phendimetrazine,arthritis,0,,,,,
+control_drug,phendimetrazine,headache,0,,,,,
+control_drug,phendimetrazine,heart rate,0,,,,,
+control_drug,phenelzine,sex drive,0,,,,,
+control_drug,phenelzine,sexual function,0,,,,,
+control_drug,phentermine,cough,0,,,,,
+control_drug,phentermine / topiramate,appetite,0,,,,,
+control_drug,phentermine / topiramate,night sweats,0,,,,,
+control_drug,pitolisant,ejaculation,0,,,,,
+control_drug,pitolisant,mood,0,,,,,
+control_drug,pramipexole,blood pressure,0,,,,,
+control_drug,pramipexole,cough,0,,,,,
+control_drug,pramipexole,dyspareunia,0,,,,,
+control_drug,pramipexole,food cravings,0,,,,,
+control_drug,pramipexole,menstrual cramps,0,,,,,
+control_drug,pramipexole,nasal congestion,0,,,,,
+control_drug,pramipexole,other: oily skin,0,,,,,
+control_drug,pramipexole,pain,0,,,,,
+control_drug,prasterone,blood pressure,0,,,,,
+control_drug,prasterone,energy level,0,,,,,
+control_drug,prasterone,hallucinations,0,,,,,
+control_drug,prasterone,headache,0,,,,,
+control_drug,prednisone,breast enlargement,0,,,,,
+control_drug,prednisone,insomnia,0,,,,,
+control_drug,primidone,anxiety,0,,,,,
+control_drug,primidone,delusions,0,,,,,
+control_drug,primidone,mobility,0,,,,,
+control_drug,primidone,nerve pain,0,,,,,
+control_drug,prochlorperazine,sleep quality,0,,,,,
+control_drug,prochlorperazine,vaginal irritation,0,,,,,
+control_drug,progesterone,motivation,0,,,,,
+control_drug,promethazine,body weight,0,,,,,
+control_drug,promethazine,energy level,0,,,,,
+control_drug,promethazine,obsessive-compulsive symptoms,0,,,,,
+control_drug,promethazine,orgasm,0,,,,,
+control_drug,promethazine,personality,0,,,,,
+control_drug,propofol,addiction or dependence,0,,,,,
+control_drug,propofol,body weight,0,,,,,
+control_drug,propofol,impulse control,0,,,,,
+control_drug,propranolol,compulsive behavior,0,,,,,
+control_drug,propranolol,emotion regulation,0,,,,,
+control_drug,pseudoephedrine / triprolidine,cognitive function,0,,,,,
+control_drug,pseudoephedrine / triprolidine,heart palpitations,0,,,,,
+control_drug,pseudoephedrine / triprolidine,muscle pain,0,,,,,
+control_drug,rifaximin,behavior,0,,,,,
+control_drug,rifaximin,energy level,0,,,,,
+control_drug,risperidone,dry eyes,0,,,,,
+control_drug,risperidone,sexual function,0,,,,,
+control_drug,rivastigmine,arthritis,0,,,,,
+control_drug,sacubitril / valsartan,paranoia,0,,,,,
+control_drug,saxagliptin,anxiety,0,,,,,
+control_drug,saxagliptin,mobility,0,,,,,
+control_drug,semaglutide,irritability,0,,,,,
+control_drug,sildenafil,cognitive function,0,,,,,
+control_drug,sinequan,aggression,0,,,,,
+control_drug,sinequan,headache,0,,,,,
+control_drug,sinequan,mood,0,,,,,
+control_drug,sinequan,skin infection,0,,,,,
+control_drug,sitagliptin,alertness,0,,,,,
+control_drug,sofosbuvir / velpatasvir,body weight,0,,,,,
+control_drug,spironolactone,allergic reaction,0,,,,,
+control_drug,spironolactone,other: life stability,0,,,,,
+control_drug,spironolactone,urinary retention,0,,,,,
+control_drug,st. john's wort extract,alcohol use,0,,,,,
+control_drug,st. john's wort extract,bloating,0,,,,,
+control_drug,st. john's wort extract,bruising,0,,,,,
+control_drug,st. john's wort extract,cognitive function,0,,,,,
+control_drug,st. john's wort extract,sleep quality,0,,,,,
+control_drug,suvorexant,dyspnea,0,,,,,
+control_drug,suvorexant,mood,0,,,,,
+control_drug,suvorexant,other: migraine prevention,0,,,,,
+control_drug,suvorexant,urinary urgency,0,,,,,
+control_drug,suvorexant,withdrawal symptoms,0,,,,,
+control_drug,tamsulosin,anxiety,0,,,,,
+control_drug,tamsulosin,depression,0,,,,,
+control_drug,tamsulosin,eating behavior,0,,,,,
+control_drug,tamsulosin,headache,0,,,,,
+control_drug,tamsulosin,sleep quality,0,,,,,
+control_drug,tazarotene,attention,0,,,,,
+control_drug,tazarotene,dyspnea,0,,,,,
+control_drug,tazarotene,smoking behavior,0,,,,,
+control_drug,tegaserod,sleep quality,0,,,,,
+control_drug,tegaserod,vertigo,0,,,,,
+control_drug,temazepam,body weight,0,,,,,
+control_drug,temazepam,nausea,0,,,,,
+control_drug,temazepam,other: oily skin,0,,,,,
+control_drug,terazosin,dyspnea,0,,,,,
+control_drug,terazosin,other: school performance,0,,,,,
+control_drug,terazosin,psychosis,0,,,,,
+control_drug,terazosin,rash,0,,,,,
+control_drug,terbinafine,heart palpitations,0,,,,,
+control_drug,terbinafine,mood,0,,,,,
+control_drug,terbinafine,night terrors,0,,,,,
+control_drug,terbinafine,self-esteem,0,,,,,
+control_drug,teriflunomide,irritability,0,,,,,
+control_drug,teriparatide,hair growth or loss,0,,,,,
+control_drug,testosterone,constipation,0,,,,,
+control_drug,testosterone,muscle pain,0,,,,,
+control_drug,theanine,energy level,0,,,,,
+control_drug,thyroid (usp),arthritis,0,,,,,
+control_drug,thyroid (usp),blood pressure,0,,,,,
+control_drug,tirzepatide,jaw clenching,0,,,,,
+control_drug,tizanidine,breakthrough bleeding,0,,,,,
+control_drug,tofacitinib,alcohol use,0,,,,,
+control_drug,tofacitinib,alertness,0,,,,,
+control_drug,tofacitinib,cough,0,,,,,
+control_drug,topiramate,nausea,0,,,,,
+control_drug,topiramate,tic disorders,0,,,,,
+control_drug,tramadol,sex drive,0,,,,,
+control_drug,tranexamic acid,energy level,0,,,,,
+control_drug,tranexamic acid,pain,0,,,,,
+control_drug,tranexamic acid,sleep quality,0,,,,,
+control_drug,tranylcypromine,appetite,0,,,,,
+control_drug,tranylcypromine,ejaculation,0,,,,,
+control_drug,tranylcypromine,joint pain,0,,,,,
+control_drug,trazodone,dermatitis,0,,,,,
+control_drug,trazodone,hot flashes,0,,,,,
+control_drug,tretinoin,edema,0,,,,,
+control_drug,tretinoin,energy level,0,,,,,
+control_drug,tretinoin,pain,0,,,,,
+control_drug,turmeric extract,withdrawal symptoms,0,,,,,
+control_drug,ubidecarenone,blood pressure,0,,,,,
+control_drug,ubidecarenone,compulsive behavior,0,,,,,
+control_drug,ubidecarenone,hair growth or loss,0,,,,,
+control_drug,ubidecarenone,other: work functioning,0,,,,,
+control_drug,upadacitinib,alcohol craving,0,,,,,
+control_drug,upadacitinib,allergic reaction,0,,,,,
+control_drug,upadacitinib,urinary frequency,0,,,,,
+control_drug,ustekinumab,nasal congestion,0,,,,,
+control_drug,valerian root extract,anxiety,0,,,,,
+control_drug,valerian root extract,other: vaginal dryness,0,,,,,
+control_drug,valproate,insomnia,0,,,,,
+control_drug,valproate,low ejection fraction,0,,,,,
+control_drug,valproate,sexual function,0,,,,,
+control_drug,valsartan,constipation,0,,,,,
+control_drug,valsartan,depression,0,,,,,
+control_drug,valsartan,edema,0,,,,,
+control_drug,vardenafil,depression,0,,,,,
+control_drug,varenicline,appetite,0,,,,,
+control_drug,varenicline,liver problems,0,,,,,
+control_drug,venlafaxine,bloating,0,,,,,
+control_drug,verapamil,anxiety,0,,,,,
+control_drug,verapamil,bipolar symptoms,0,,,,,
+control_drug,verapamil,dyspareunia,0,,,,,
+control_drug,verapamil,smoking craving,0,,,,,
+control_drug,vilazodone,fibromyalgia symptoms,0,,,,,
+control_drug,vitamin b12,nausea,0,,,,,
+control_drug,zoledronic acid,mobility,0,,,,,
+control_drug,zoledronic acid,sleep duration,0,,,,,
+control_drug,zolpidem,cyst size,0,,,,,
+control_drug,zolpidem,sweating,0,,,,,
+control_drug,zonisamide,inflammation,0,,,,,
