@@ -24,3 +24,7 @@ shasum -a 256 -c data/forecasts_2026-10-28.sha256
 ```
 
 The sources behind those forecasts (PubMed IDs, trial IDs and the FDA-label placebo rates) are in `EVIDENCE_2026-10-28.md`. `base_rates.py` makes the base rates and power numbers.
+
+## The write-up
+
+[`article/`](article/README.md) explains the whole project in plain language: the known-answer tests, the backtest, the GLP-1 and alcohol story, and the four leads nobody has tested properly.
